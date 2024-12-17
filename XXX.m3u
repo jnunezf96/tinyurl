@@ -1,4 +1,6 @@
 #EXTM3U
+
+# AdultHD
 #EXTINF:0 group-title="AdultHD",FEMJOY
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6212/index.m3u8
 #EXTINF:0 group-title="AdultHD",MYLF
@@ -167,7 +169,6 @@ http://185.193.88.10/iptv/2EA55L4SUE4RH4/6170/index.m3u8
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6171/index.m3u8
 #EXTINF:0 group-title="AdultHD",BABES 2
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6172/index.m3u8
-:-1 group-title="AdultHD",BANG BROS 1
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6173/index.m3u8
 #EXTINF:0 group-title="AdultHD",BANG
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6174/index.m3u8
@@ -213,7 +214,7 @@ http://185.193.88.10/iptv/2EA55L4SUE4RH4/6201/index.m3u8
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6202/index.m3u8
 #EXTINF:0 group-title="AdultHD",SLOTS 777 2
 http://185.193.88.10/iptv/2EA55L4SUE4RH4/6203/index.m3u8
-
+# Adult
 #EXTINF:0 group-title="Adult",VIVID RED
 http://kstv.us:8080/8MWXvEh01U/2511884350/47168
 #EXTINF:0 group-title="Adult",HUSTLER HD
@@ -294,7 +295,6 @@ http://kstv.us:8080/8MWXvEh01U/2511884350/47206
 http://kstv.us:8080/8MWXvEh01U/2511884350/47207
 #EXTINF:0 group-title="Adult",REALITY KINGS
 http://kstv.us:8080/8MWXvEh01U/2511884350/47208
-
 #EXTINF:0 group-title="Adult",Dorcel XXX HD
 http://kstv.us:8080/8MWXvEh01U/2511884350/47210
 #EXTINF:0 group-title="Adult",MILF TV
@@ -431,7 +431,7 @@ http://kstv.us:8080/8MWXvEh01U/2511884350/47303
 http://kstv.us:8080/8MWXvEh01U/2511884350/47304
 #EXTINF:0 group-title="Adult",EXTASY 4K PLATINUM
 http://kstv.us:8080/8MWXvEh01U/2511884350/47315
-
+# XXX
 #EXTINF:0 group-title="XXX",BRAZZERS
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/62847/hls/pl.m3u8
 #EXTINF:0 group-title="XXX",CineMan XXX
@@ -458,649 +458,596 @@ http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/90254/hls/pl.m3u8
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/91663/hls/pl.m3u8
 #EXTINF:0 group-title="XXX",XXL
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/26472/hls/pl.m3u8
-
-
-#EXTINF:0 group-title="XXX3",A3 Bikini
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6165/index.m3u8
-#EXTINF:0 group-title="XXX4",A3 Bikini
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6165/index.m3u8
 #EXTINF:0 group-title="XXX",A3 Bikini
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6165/index.m3u8
-#EXTINF:0 group-title="XXX4",AST TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6169/index.m3u8
 #EXTINF:0 group-title="XXX",AST TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6169/index.m3u8
-#EXTINF:0 group-title="XXX4",AST TV 2
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6170/index.m3u8
 #EXTINF:0 group-title="XXX",AST TV 2
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6170/index.m3u8
-#EXTINF:0 group-title="XXX3",Alba 1
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12106/index.m3u8
-#EXTINF:0 group-title="XXX4",Alba 1
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12106/index.m3u8
 #EXTINF:0 group-title="XXX",Alba 1
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12106/index.m3u8
-#EXTINF:0 group-title="XXX4",Alba 1 HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12105/index.m3u8
 #EXTINF:0 group-title="XXX",Alba 1 HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12105/index.m3u8
-#EXTINF:0 group-title="XXX3",Alba XXX 1 HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12204/index.m3u8
-#EXTINF:0 group-title="XXX4",Alba XXX HD 1
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12204/index.m3u8
-#EXTINF:0 group-title="XXX3",Alba XXX HD 2
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12194/index.m3u8
-#EXTINF:0 group-title="XXX4",Alba XXX HD 2
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12194/index.m3u8
 #EXTINF:0 group-title="XXX",Alba XXX HD 2
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12194/index.m3u8
-#EXTINF:0 group-title="XXX3",Alex Legend
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12193/index.m3u8
-#EXTINF:0 group-title="XXX4",Alex Legend
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12193/index.m3u8
 #EXTINF:0 group-title="XXX",Alex Legend
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12193/index.m3u8
-#EXTINF:0 group-title="XXX3",All Anal
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12192/index.m3u8
-#EXTINF:0 group-title="XXX4",All Anal
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12192/index.m3u8
 #EXTINF:0 group-title="XXX",All Anal
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12192/index.m3u8
-#EXTINF:0 group-title="Red TV",Anal
-http://live.adultiptv.net/anal.m3u8
-#EXTINF:0 group-title="XXX4",Anal 4K
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12190/index.m3u8
 #EXTINF:0 group-title="XXX",Anal 4K
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12190/index.m3u8
-#EXTINF:0 group-title="XXX3",Anal Mom
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12189/index.m3u8
-#EXTINF:0 group-title="XXX4",Anal Mom
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12189/index.m3u8
 #EXTINF:0 group-title="XXX",Anal Mom
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12189/index.m3u8
-#EXTINF:0 group-title="XXX3",Anal Only
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12184/index.m3u8
-#EXTINF:0 group-title="XXX4",Anal Only
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12184/index.m3u8
 #EXTINF:0 group-title="XXX",Anal Only
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12184/index.m3u8
-#EXTINF:0 group-title="XXX4",Anal Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6167/index.m3u8
-#EXTINF:0 group-title="XXX3",Anal Teen Angels
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12183/index.m3u8
-#EXTINF:0 group-title="XXX4",Anal Teen Angels
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12183/index.m3u8
 #EXTINF:0 group-title="XXX",Anal Teen Angels
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12183/index.m3u8
-#EXTINF:0 group-title="XXX3",Anal Time
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12181/index.m3u8
-#EXTINF:0 group-title="XXX4",Anal Time
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12181/index.m3u8
 #EXTINF:0 group-title="XXX",Anal Time
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12181/index.m3u8
-#EXTINF:0 group-title="XXX3",Analized HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6168/index.m3u8
-#EXTINF:0 group-title="XXX4",Analized HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6168/index.m3u8
 #EXTINF:0 group-title="XXX",Analized HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6168/index.m3u8
-#EXTINF:0 group-title="Red TV",Asian
-http://live.adultiptv.net/asian.m3u8
-#EXTINF:0 group-title="XXX3",Ass Parade
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12178/index.m3u8
-#EXTINF:0 group-title="XXX4",Ass Parade
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12178/index.m3u8
 #EXTINF:0 group-title="XXX",Ass Parade
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12178/index.m3u8
-#EXTINF:0 group-title="XXX3",BAG U
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12170/index.m3u8
-#EXTINF:0 group-title="XXX4",BAG U
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12170/index.m3u8
 #EXTINF:0 group-title="XXX",BAG U
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12170/index.m3u8
-#EXTINF:0 group-title="XXX3",BBC Pie
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12164/index.m3u8
-#EXTINF:0 group-title="XXX4",BBC Pie
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12164/index.m3u8
 #EXTINF:0 group-title="XXX",BBC Pie
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12164/index.m3u8
-#EXTINF:0 group-title="XXX3",BRAZZERS TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12113/index.m3u8
-#EXTINF:0 group-title="XXX4",BRAZZERS TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12113/index.m3u8
 #EXTINF:0 group-title="XXX",BRAZZERS TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12113/index.m3u8
-#EXTINF:0 group-title="XXX3",Babes HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6171/index.m3u8
 #EXTINF:0 group-title="XXX",Babes HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6171/index.m3u8
-#EXTINF:0 group-title="XXX3",Babes TV HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6172/index.m3u8
-#EXTINF:0 group-title="XXX4",Babes TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6172/index.m3u8
-#EXTINF:0 group-title="XXX3",Banana Fever
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12168/index.m3u8
-#EXTINF:0 group-title="XXX4",Banana Fever
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12168/index.m3u8
 #EXTINF:0 group-title="XXX",Banana Fever
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12168/index.m3u8
-#EXTINF:0 group-title="XXX3",Bang Bros HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6173/index.m3u8
-#EXTINF:0 group-title="XXX4",Bang Bros HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6173/index.m3u8
 #EXTINF:0 group-title="XXX",Bang Bros HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6173/index.m3u8
-#EXTINF:0 group-title="XXX3",Bang Bus
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12167/index.m3u8
-#EXTINF:0 group-title="XXX4",Bang Bus
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12167/index.m3u8
 #EXTINF:0 group-title="XXX",Bang Bus
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12167/index.m3u8
-#EXTINF:0 group-title="XXX3",Bang POV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12166/index.m3u8
-#EXTINF:0 group-title="XXX4",Bang POV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12166/index.m3u8
 #EXTINF:0 group-title="XXX",Bang POV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12166/index.m3u8
-#EXTINF:0 group-title="XXX4",Bang U
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12114/index.m3u8
 #EXTINF:0 group-title="XXX",Bang U
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12114/index.m3u8
-#EXTINF:0 group-title="XXX3",Bang!
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6174/index.m3u8
-#EXTINF:0 group-title="XXX4",Bang!
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6174/index.m3u8
 #EXTINF:0 group-title="XXX",Bang!
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6174/index.m3u8
 #EXTINF:0 group-title="XXX",Barely Legal
 http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/23879/hls/pl.m3u8
-#EXTINF:0 group-title="XXX3",Barely Legal TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12165/index.m3u8
-#EXTINF:0 group-title="XXX4",Barely Legal TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12165/index.m3u8
 #EXTINF:0 group-title="XXX",Barely Legal TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12165/index.m3u8
 #EXTINF:0 group-title="XXX",Barely legal
 http://ip1.orgip.net/711/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",Barely legal
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/871/index.m3u8
-#EXTINF:0 group-title="XXX4",Barely legal
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/871/index.m3u8
-#EXTINF:0 group-title="XXX4",Big Dick Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6176/index.m3u8
-#EXTINF:0 group-title="Red TV",Big Dick Red TV
-http://live.adultiptv.net/bigdick.m3u8
-#EXTINF:0 group-title="XXX3",Blacked HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6178/index.m3u8
-#EXTINF:0 group-title="XXX4",Blacked HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6178/index.m3u8
 #EXTINF:0 group-title="XXX",Blacked HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6178/index.m3u8
-#EXTINF:0 group-title="Red TV",Blonde
-http://live.adultiptv.net/blonde.m3u8
-#EXTINF:0 group-title="Red TV",Blowjob
-http://live.adultiptv.net/blowjob.m3u8
-#EXTINF:0 group-title="XXX4",Blowjob Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6180/index.m3u8
-#EXTINF:0 group-title="XXX3",Brazzers HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6182/index.m3u8
-#EXTINF:0 group-title="XXX4",Brazzers HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6182/index.m3u8
 #EXTINF:0 group-title="XXX",Brazzers HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6182/index.m3u8
 #EXTINF:0 group-title="XXX",CineMan ExExEx
 http://ip1.orgip.net/706/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",CineMan ExExEx
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/20089/index.m3u8
-#EXTINF:0 group-title="XXX4",CineMan ExExEx
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20089/index.m3u8
 #EXTINF:0 group-title="XXX",CineMan ExExEx TWO
 http://ip1.orgip.net/716/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",CineMan ExExEx TWO
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/20090/index.m3u8
-#EXTINF:0 group-title="XXX4",CineMan ExExEx TWO
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20090/index.m3u8
-#EXTINF:0 group-title="XXX3",Club 17
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6186/index.m3u8
-#EXTINF:0 group-title="XXX4",Club 17
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6186/index.m3u8
 #EXTINF:0 group-title="XXX",Club 17
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6186/index.m3u8
-#EXTINF:0 group-title="XXX4",Cuckold Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6188/index.m3u8
-#EXTINF:0 group-title="XXX3",Cum Louder
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6189/index.m3u8
-#EXTINF:0 group-title="XXX4",Cum Louder
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6189/index.m3u8
 #EXTINF:0 group-title="XXX",Cum Louder
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6189/index.m3u8
-#EXTINF:0 group-title="XXX4",Cum4k
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6190/index.m3u8
-#EXTINF:0 group-title="XXX4",Cum4k UHD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12157/index.m3u8
 #EXTINF:0 group-title="XXX",Cum4k UHD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12157/index.m3u8
-#EXTINF:0 group-title="XXX3",DORCEL TV FHD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12131/index.m3u8
-#EXTINF:0 group-title="XXX4",DORCEL TV FHD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12131/index.m3u8
 #EXTINF:0 group-title="XXX",DORCEL TV FHD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12131/index.m3u8
-#EXTINF:0 group-title="XXX3",DORCEL XXX TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12132/index.m3u8
-#EXTINF:0 group-title="XXX4",DORCEL XXX TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12132/index.m3u8
 #EXTINF:0 group-title="XXX",DORCEL XXX TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12132/index.m3u8
-#EXTINF:0 group-title="XXX3",Dancing Bear
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12144/index.m3u8
-#EXTINF:0 group-title="XXX4",Dancing Bear
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12144/index.m3u8
 #EXTINF:0 group-title="XXX",Dancing Bear
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12144/index.m3u8
-#EXTINF:0 group-title="XXX3",Dane Jones
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12143/index.m3u8
-#EXTINF:0 group-title="XXX4",Dane Jones
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12143/index.m3u8
 #EXTINF:0 group-title="XXX",Dane Jones
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12143/index.m3u8
-#EXTINF:0 group-title="XXX3",Dark X
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12140/index.m3u8
 #EXTINF:0 group-title="XXX",Dark X
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12140/index.m3u8
-#EXTINF:0 group-title="XXX3",Dorcel Club
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6197/index.m3u8
-#EXTINF:0 group-title="XXX4",Dorcel Club
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6197/index.m3u8
 #EXTINF:0 group-title="XXX",Dorcel Club
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6197/index.m3u8
-#EXTINF:0 group-title="XXX3",Dorcel HD orig
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9064/index.m3u8
-#EXTINF:0 group-title="XXX4",Dorcel HD orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9064/index.m3u8
 #EXTINF:0 group-title="XXX",Dorcel HD orig
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9064/index.m3u8
 #EXTINF:0 group-title="XXX",Dorcel TV HD
 http://ip1.orgip.net/701/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",Dorcel TV HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/245/index.m3u8
-#EXTINF:0 group-title="XXX4",Dorcel TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/245/index.m3u8
-#EXTINF:0 group-title="XXX4",Dorcel TV HD orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9067/index.m3u8
-
 #EXTINF:0 group-title="XXX",DuckTV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18138/index.m3u8
-#EXTINF:0 group-title="XXX4",DuckTV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18138/index.m3u8
-#EXTINF:0 group-title="XXX3",Dusk
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6198/index.m3u8
-#EXTINF:0 group-title="XXX4",Dusk
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6198/index.m3u8
-
-#EXTINF:0 group-title="XXX3",EXTASY HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11051/index.m3u8
-#EXTINF:0 group-title="XXX4",EXTASY HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/11051/index.m3u8
 #EXTINF:0 group-title="XXX",EXTASY HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11051/index.m3u8
-#EXTINF:0 group-title="XXX3",EXXXOTICA HD orig
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9346/index.m3u8
-#EXTINF:0 group-title="XXX4",EXXXOTICA HD orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9346/index.m3u8
 #EXTINF:0 group-title="XXX",EXXXOTICA HD orig
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9346/index.m3u8
-
-#EXTINF:0 group-title="XXX4",Eromania 4K
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/10049/index.m3u8
 #EXTINF:0 group-title="XXX",Eromania 4K
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/10049/index.m3u8
-#EXTINF:0 group-title="XXX3",Erox HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6296/index.m3u8
-#EXTINF:0 group-title="XXX4",Erox HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6296/index.m3u8
 #EXTINF:0 group-title="XXX",Erox HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6296/index.m3u8
-#EXTINF:0 group-title="XXX3",Eroxxx HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/5015/index.m3u8
-#EXTINF:0 group-title="XXX4",Eroxxx HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5015/index.m3u8
-#EXTINF:0 group-title="XXX3",Euro Girls On Girls
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12108/index.m3u8
-#EXTINF:0 group-title="XXX4",Euro Girls On Girls
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12108/index.m3u8
 #EXTINF:0 group-title="XXX",Euro Girls On Girls
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12108/index.m3u8
-#EXTINF:0 group-title="XXX3",Evil Angel HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6199/index.m3u8
-#EXTINF:0 group-title="XXX4",Evil Angel HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6199/index.m3u8
 #EXTINF:0 group-title="XXX",Evil Angel HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6199/index.m3u8
-#EXTINF:0 group-title="XXX4",FREE X TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12134/index.m3u8
 #EXTINF:0 group-title="XXX",FREE X TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12134/index.m3u8
-#EXTINF:0 group-title="XXX3",Fake Taxi HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6202/index.m3u8
-#EXTINF:0 group-title="XXX4",Fake Taxi HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6202/index.m3u8
 #EXTINF:0 group-title="XXX",Fake Taxi HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6202/index.m3u8
-#EXTINF:0 group-title="XXX3",FemJoy
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6212/index.m3u8
-#EXTINF:0 group-title="XXX4",FemJoy
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
 #EXTINF:0 group-title="XXX",FemJoy
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6212/index.m3u8
-#EXTINF:0 group-title="Red TV",Gangbang
-http://live.adultiptv.net/gangbang.m3u8
-#EXTINF:0 group-title="Red TV",Gay
-http://live.adultiptv.net/gay.m3u8
-#EXTINF:0 group-title="XXX3",HOT
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6275/index.m3u8
-#EXTINF:0 group-title="XXX4",HOT
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6275/index.m3u8
 #EXTINF:0 group-title="XXX",HOT
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6275/index.m3u8
-#EXTINF:0 group-title="XXX3",HOT XXL HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6276/index.m3u8
-#EXTINF:0 group-title="XXX4",HOT XXL HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6276/index.m3u8
 #EXTINF:0 group-title="XXX",HOT XXL HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6276/index.m3u8
-#EXTINF:0 group-title="XXX3",HOTWIFE PREMIUM
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12187/index.m3u8
-#EXTINF:0 group-title="XXX4",HOTWIFE PREMIUM
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12187/index.m3u8
 #EXTINF:0 group-title="XXX",HOTWIFE PREMIUM
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12187/index.m3u8
-#EXTINF:0 group-title="XXX3",Hands on Hardcore
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6217/index.m3u8
-#EXTINF:0 group-title="XXX4",Hands on Hardcore
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6217/index.m3u8
 #EXTINF:0 group-title="XXX",Hands on Hardcore
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6217/index.m3u8
-#EXTINF:0 group-title="XXX3",Hard X
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6218/index.m3u8
-#EXTINF:0 group-title="XXX4",Hard X
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6218/index.m3u8
 #EXTINF:0 group-title="XXX",Hard X
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6218/index.m3u8
-#EXTINF:0 group-title="Red TV",Hardcore
-http://live.adultiptv.net/hardcore.m3u8
-#EXTINF:0 group-title="XXX4",Hardcore Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6219/index.m3u8
-#EXTINF:0 group-title="XXX3",Holed
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6221/index.m3u8
-#EXTINF:0 group-title="XXX4",Holed
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6221/index.m3u8
 #EXTINF:0 group-title="XXX",Holed
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6221/index.m3u8
-#EXTINF:0 group-title="XXX3",KinoXXX
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11052/index.m3u8
-#EXTINF:0 group-title="XXX4",KinoXXX
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/11052/index.m3u8
 #EXTINF:0 group-title="XXX",KinoXXX
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11052/index.m3u8
-#EXTINF:0 group-title="XXX4",LATINA TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12172/index.m3u8
-#EXTINF:0 group-title="Red TV",LATINA TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12172/index.m3u8
-#EXTINF:0 group-title="XXX4",LEO TV FHD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12123/index.m3u8
 #EXTINF:0 group-title="XXX",LEO TV FHD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12123/index.m3u8
 #EXTINF:0 group-title="XXX",Leo TV Gold HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6236/index.m3u8
-#EXTINF:0 group-title="XXX3",Leo TV HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6272/index.m3u8
-#EXTINF:0 group-title="XXX4",Leo TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6272/index.m3u8
 #EXTINF:0 group-title="XXX",Leo TV HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6272/index.m3u8
-#EXTINF:0 group-title="XXX3",Lesbea
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6227/index.m3u8
-#EXTINF:0 group-title="XXX4",Lesbea
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6227/index.m3u8
 #EXTINF:0 group-title="XXX",Lesbea
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6227/index.m3u8
-#EXTINF:0 group-title="Red TV",Lesbian
-http://live.adultiptv.net/lesbian.m3u8
 #EXTINF:0 group-title="XXX",Lesbian Affair
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6278/index.m3u8
-#EXTINF:0 group-title="XXX4",Lesbian Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6228/index.m3u8
-#EXTINF:0 group-title="Red TV",Live Cams
-http://live.adultiptv.net/livecams.m3u8
-#EXTINF:0 group-title="Red TV",MILF
-http://live.adultiptv.net/milf.m3u8
-#EXTINF:0 group-title="XXX4",MILF Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6234/index.m3u8
-#EXTINF:0 group-title="XXX4",MILF TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12173/index.m3u8
-#EXTINF:0 group-title="Red TV",MILF TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12173/index.m3u8
-#EXTINF:0 group-title="XXX3",MYLF TV HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6236/index.m3u8
-#EXTINF:0 group-title="XXX4",MYLF TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6236/index.m3u8
-#EXTINF:0 group-title="XXX3",Meiden Van Holland
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12125/index.m3u8
-#EXTINF:0 group-title="XXX4",Meiden Van Holland
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12125/index.m3u8
 #EXTINF:0 group-title="XXX",Meiden Van Holland
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12125/index.m3u8
 #EXTINF:0 group-title="XXX",MvH Hard
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6297/index.m3u8
-#EXTINF:0 group-title="XXX3",Nubiles TV HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6238/index.m3u8
-#EXTINF:0 group-title="XXX4",Nubiles TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6238/index.m3u8
 #EXTINF:0 group-title="XXX",Nubiles TV HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6238/index.m3u8
-#EXTINF:0 group-title="XXX4",O-La-La orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9068/index.m3u8
 #EXTINF:0 group-title="XXX",O-La-La orig
 http://31.148.48.15/O-la-la/index.m3u8
-#EXTINF:0 group-title="XXX3",O-la-la
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/2161/index.m3u8
-#EXTINF:0 group-title="XXX4",O-la-la
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/2161/index.m3u8
-#EXTINF:0 group-title="XXX3",PASSIE TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12136/index.m3u8
-#EXTINF:0 group-title="XXX4",PASSIE TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12136/index.m3u8
 #EXTINF:0 group-title="XXX",PASSIE TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12136/index.m3u8
-#EXTINF:0 group-title="XXX3",PASSION XXX
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12120/index.m3u8
-#EXTINF:0 group-title="XXX4",PASSION XXX
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12120/index.m3u8
-
-#EXTINF:0 group-title="XXX3",PINK EROTICA 1
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12146/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 1
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12146/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 1
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12146/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 2
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12147/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 2
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12147/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 2
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12147/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 3
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12148/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 3
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12148/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 3
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12148/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 4
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12149/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 4
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12149/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 4
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12149/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 5
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12150/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 5
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12150/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 5
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12150/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 6
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12151/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 6
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12151/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 6
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12151/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 7
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12152/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 7
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12152/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 7
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12152/index.m3u8
-#EXTINF:0 group-title="XXX3",PINK EROTICA 8
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12153/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTICA 8
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12153/index.m3u8
 #EXTINF:0 group-title="XXX",PINK EROTICA 8
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12153/index.m3u8
-#EXTINF:0 group-title="XXX3",PLAYBOY TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12135/index.m3u8
-#EXTINF:0 group-title="XXX4",PLAYBOY TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12135/index.m3u8
 #EXTINF:0 group-title="XXX",PLAYBOY TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12135/index.m3u8
-#EXTINF:0 group-title="XXX4",PORNSTAR TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12174/index.m3u8
-#EXTINF:0 group-title="Red TV",PORNSTAR TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12174/index.m3u8
-#EXTINF:0 group-title="XXX4",POV TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12175/index.m3u8
-#EXTINF:0 group-title="Red TV",POV TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12175/index.m3u8
-#EXTINF:0 group-title="XXX3",PURE BABES
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12112/index.m3u8
-#EXTINF:0 group-title="XXX4",PURE BABES
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12112/index.m3u8
 #EXTINF:0 group-title="XXX",PURE BABES
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12112/index.m3u8
-#EXTINF:0 group-title="XXX3",Playboy
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/527/index.m3u8
-#EXTINF:0 group-title="XXX4",Playboy
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/527/index.m3u8
-#EXTINF:0 group-title="XXX3",Playboy LA
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6280/index.m3u8
-#EXTINF:0 group-title="XXX4",Playboy LA
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6280/index.m3u8
 #EXTINF:0 group-title="XXX",Playboy LA
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6280/index.m3u8
-#EXTINF:0 group-title="XXX3",Playboy Plus
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6242/index.m3u8
-#EXTINF:0 group-title="XXX4",Playboy Plus
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6242/index.m3u8
 #EXTINF:0 group-title="XXX",Playboy Plus
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6242/index.m3u8
 #EXTINF:0 group-title="XXX",Porn Classic
 http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
-#EXTINF:0 group-title="XXX3",RK Prime
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6248/index.m3u8
-#EXTINF:0 group-title="XXX4",RK Prime
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6248/index.m3u8
 #EXTINF:0 group-title="XXX",RK Prime
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6248/index.m3u8
-#EXTINF:0 group-title="XXX3",RK TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6249/index.m3u8
-#EXTINF:0 group-title="XXX4",RK TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6249/index.m3u8
 #EXTINF:0 group-title="XXX",RK TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6249/index.m3u8
-#EXTINF:0 group-title="XXX4",ROUGH TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12176/index.m3u8
-#EXTINF:0 group-title="Red TV",ROUGH TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12176/index.m3u8
-#EXTINF:0 group-title="XXX4",RUSSIAN TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12177/index.m3u8
-#EXTINF:0 group-title="Red TV",RUSSIAN TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12177/index.m3u8
-#EXTINF:0 group-title="XXX3",Red XXX
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6281/index.m3u8
-#EXTINF:0 group-title="XXX4",Red XXX
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6281/index.m3u8
 #EXTINF:0 group-title="XXX",Red XXX
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6281/index.m3u8
-#EXTINF:0 group-title="XXX4",SKY HIGH ADULT HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/15166/index.m3u8
 #EXTINF:0 group-title="XXX",SKY HIGH ADULT HD
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/15166/index.m3u8
-#EXTINF:0 group-title="XXX3",SKY HIGH SEX VR
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/19406/index.m3u8
-#EXTINF:0 group-title="XXX4",SKY HIGH SEX VR
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19406/index.m3u8
 #EXTINF:0 group-title="XXX",SKY HIGH SEX VR
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19406/index.m3u8
-#EXTINF:0 group-title="XXX4",THREESOME TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12180/index.m3u8
-#EXTINF:0 group-title="Red TV",THREESOME TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12180/index.m3u8
-#EXTINF:0 group-title="XXX3",TUSHY TV
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12188/index.m3u8
-#EXTINF:0 group-title="XXX4",TUSHY TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12188/index.m3u8
 #EXTINF:0 group-title="XXX",TUSHY TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12188/index.m3u8
 #EXTINF:0 group-title="XXX",Taboo
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6283/index.m3u8
-#EXTINF:0 group-title="XXX4",Teen Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6256/index.m3u8
-#EXTINF:0 group-title="Red TV",Teen Red TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6256/index.m3u8
-#EXTINF:0 group-title="XXX4",Tiny4K
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6258/index.m3u8
 #EXTINF:0 group-title="XXX",Tiny4K
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6258/index.m3u8
-#EXTINF:0 group-title="XXX3",Trans Angels
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6259/index.m3u8
-#EXTINF:0 group-title="XXX4",Trans Angels
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6259/index.m3u8
 #EXTINF:0 group-title="XXX",Trans Angels
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6259/index.m3u8
-
-#EXTM3U x-tvg-url="http://epg.one/epg2.xml"
-
 #EXTINF:0 group-title="XXX",Reality Kings (576p)
 http://85.11.144.9:4222/RealityKings?token=test
-
 #EXTINF:0 group-title="XXX",Penthouse Gold HD
 http://ip1.orgip.net/707/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Brazzers TV Europe
 http://ip1.orgip.net/705/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Nuart TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2057/index.m3u8
 #EXTINF:0 group-title="XXX",Private TV
 http://ip1.orgip.net/704/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Miami TV Mexico (1080p)
 https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
 #EXTINF:0 group-title="XXX",Redlight HD
 http://ip1.orgip.net/702/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Hustler HD Europe
 http://ip1.orgip.net/714/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Penthouse Quickies HD
 http://ip1.orgip.net/713/video.m3u8?token=A3b61a999e
-
 #EXTINF:0 group-title="XXX",Blue Hustler
 http://ip1.orgip.net/703/video.m3u8?token=A3b61a999e
-
+#EXTINF:0 group-title="XXX",VF Cartoon 18+
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11117/index.m3u8
+#EXTINF:0 group-title="XXX",Exotic 4k
+#EXTINF:0 group-title="XXX",Erotica X
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12109/index.m3u8
+#EXTINF:0 group-title="XXX",Erotic Spice
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12110/index.m3u8
+#EXTINF:0 group-title="XXX",DP Fanatics
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12111/index.m3u8
+#EXTINF:0 group-title="XXX",Dirty Wives Club
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12122/index.m3u8
+#EXTINF:0 group-title="XXX",French Lover
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12124/index.m3u8
+#EXTINF:0 group-title="XXX",Dirty Masseur
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12128/index.m3u8
+#EXTINF:0 group-title="XXX",Cento X Cento
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12129/index.m3u8
+#EXTINF:0 group-title="XXX",Dirty Flix
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12130/index.m3u8
+#EXTINF:0 group-title="XXX",Deep Throat Sirens
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12138/index.m3u8
+#EXTINF:0 group-title="XXX",Deep Lush
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12139/index.m3u8
+#EXTINF:0 group-title="XXX",Dad Crush
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12154/index.m3u8
+#EXTINF:0 group-title="XXX",Family Swap
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12155/index.m3u8
+#EXTINF:0 group-title="XXX",Family Strokes
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12156/index.m3u8
+#EXTINF:0 group-title="XXX",Cum Perfection
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12158/index.m3u8
+#EXTINF:0 group-title="XXX",MetArt FHD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12160/index.m3u8
+#EXTINF:0 group-title="XXX",Bratty Sis
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12161/index.m3u8
+#EXTINF:0 group-title="XXX",Brand New Amateurs
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12162/index.m3u8
+#EXTINF:0 group-title="XXX",Beate Uhse
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12163/index.m3u8
+#EXTINF:0 group-title="XXX",Asshole Fever
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12169/index.m3u8
+#EXTINF:0 group-title="XXX",Amateur Boxxx
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12191/index.m3u8
+#EXTINF:0 group-title="XXX",21 Sextury
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12205/index.m3u8
+#EXTINF:0 group-title="XXX",Liberty Эротика 4K
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/16069/index.m3u8
+#EXTINF:0 group-title="XXX",BCU Charm HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18053/index.m3u8
+#EXTINF:0 group-title="XXX",Kinoshka Adult HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18060/index.m3u8
+#EXTINF:0 group-title="XXX",Кино 18+ International
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18076/index.m3u8
+#EXTINF:0 group-title="XXX",Prokop TV XXX
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19401/index.m3u8
+#EXTINF:0 group-title="XXX",DE Blue Hustler
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20023/index.m3u8
+#EXTINF:0 group-title="XXX",DE Lust pur HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20024/index.m3u8
+#EXTINF:0 group-title="XXX",DE Penthouse Passion HD2776
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20025/index.m3u8
+#EXTINF:0 group-title="XXX",DE Playboy Europe
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20026/index.m3u8
+#EXTINF:0 group-title="XXX",Exxxotica HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2397/index.m3u8
+#EXTINF:0 group-title="XXX",Penthouse Passion
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/5010/index.m3u8
+#EXTINF:0 group-title="XXX",Adult Time
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6166/index.m3u8
+#EXTINF:0 group-title="XXX",Brazzers eXXtra
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6181/index.m3u8
+#EXTINF:0 group-title="XXX",Cherry Pimps
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6185/index.m3u8
+#EXTINF:0 group-title="XXX",Daughter Swap
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6191/index.m3u8
+#EXTINF:0 group-title="XXX",Day with a Pornstar
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6192/index.m3u8
+#EXTINF:0 group-title="XXX",DDF Busty
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6193/index.m3u8
+#EXTINF:0 group-title="XXX",DDF Network
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6194/index.m3u8
+#EXTINF:0 group-title="XXX",Digital Desire HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6195/index.m3u8
+#EXTINF:0 group-title="XXX",Digital Playground HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6196/index.m3u8
+#EXTINF:0 group-title="XXX",Evolved Fights
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6200/index.m3u8
+#EXTINF:0 group-title="XXX",Extasy HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6201/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV Anal
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6206/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV BBW
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6207/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV Compilation
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6208/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV Lesbian
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6209/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV Parody
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6210/index.m3u8
+#EXTINF:0 group-title="XXX",Fap TV Teens
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6211/index.m3u8
+#EXTINF:0 group-title="XXX",Got MYLF
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6216/index.m3u8
+#EXTINF:0 group-title="XXX",Hitzefrei HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6220/index.m3u8
+#EXTINF:0 group-title="XXX",Hot and Mean
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6222/index.m3u8
+#EXTINF:0 group-title="XXX",Hot Guys Fuck
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6223/index.m3u8
+#EXTINF:0 group-title="XXX",Japan HDV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6225/index.m3u8
+#EXTINF:0 group-title="XXX",Lethal Hardcore
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6229/index.m3u8
+#EXTINF:0 group-title="XXX",Little Asians HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6230/index.m3u8
+#EXTINF:0 group-title="XXX",Lust Cinema
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6232/index.m3u8
+#EXTINF:0 group-title="XXX",Monsters of Cock
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6235/index.m3u8
+#EXTINF:0 group-title="XXX",Naughty America
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6237/index.m3u8
+#EXTINF:0 group-title="XXX",Private HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6245/index.m3u8
+#EXTINF:0 group-title="XXX",Public Agent
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6246/index.m3u8
+#EXTINF:0 group-title="XXX",Reality Kings HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6247/index.m3u8
+#EXTINF:0 group-title="XXX",Sex With Muslims
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6252/index.m3u8
+#EXTINF:0 group-title="XXX",SexArt
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6253/index.m3u8
+#EXTINF:0 group-title="XXX",sext 6 senso
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6254/index.m3u8
+#EXTINF:0 group-title="XXX",SINematica
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6255/index.m3u8
+#EXTINF:0 group-title="XXX",True Amateurs
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6260/index.m3u8
+#EXTINF:0 group-title="XXX",Tushy HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6261/index.m3u8
+#EXTINF:0 group-title="XXX",TushyRAW
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6262/index.m3u8
+#EXTINF:0 group-title="XXX",Visit-X TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6263/index.m3u8
+#EXTINF:0 group-title="XXX",We Live Together
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6266/index.m3u8
+#EXTINF:0 group-title="XXX",White Boxxx
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6267/index.m3u8
+#EXTINF:0 group-title="XXX",Xpanded TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6269/index.m3u8
+#EXTINF:0 group-title="XXX",Balkan Erotic
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6270/index.m3u8
+#EXTINF:0 group-title="XXX",Red Lips
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6271/index.m3u8
+#EXTINF:0 group-title="XXX",Extreme
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6273/index.m3u8
+#EXTINF:0 group-title="XXX",Fast Boyz
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6274/index.m3u8
+#EXTINF:0 group-title="XXX",Hot Pleasure
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6277/index.m3u8
+#EXTINF:0 group-title="XXX",Oldtimer
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6279/index.m3u8
+#EXTINF:0 group-title="XXX",Sexy Hot
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6282/index.m3u8
+#EXTINF:0 group-title="XXX",Family Hookups
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9345/index.m3u8
+#EXTINF:0 group-title="XXX",Кино 18+ HD
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:0 group-title="XXX",VERAPORN 4K
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12137/index.m3u8
+#EXTINF:0 group-title="XXX",VERAPORN BIG TITS
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12145/index.m3u8
+#EXTINF:0 group-title="XXX",VERAPORN GROUP SEX
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12141/index.m3u8
+#EXTINF:0 group-title="XXX",VERAPORN GROUP SEX 2
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12142/index.m3u8
+#EXTINF:0 group-title="XXX",Venus HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12133/index.m3u8
+#EXTINF:0 group-title="XXX",Vivid Red
+http://ip1.orgip.net/709/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="XXX",Vivid Red HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2162/index.m3u8
+#EXTINF:0 tvg-chno="1" group-title="XXX",Vixen HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6265/index.m3u8
+#EXTINF:0 group-title="XXX",Wicked
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6268/index.m3u8
+#EXTINF:0 group-title="XXX",X-MO
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6285/index.m3u8
+#EXTINF:0 group-title="XXX",XXL
+http://ip1.orgip.net/710/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="XXX",XXX 708
+http://ip1.orgip.net/708/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="XXX",XXX 712
+http://ip1.orgip.net/712/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="XXX",XXX 715
+http://ip1.orgip.net/715/video.m3u8?token=A3b61a999e
+#EXTINF:0 group-title="XXX",XXX Love's Berry HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/14140/index.m3u8
+#EXTINF:0 group-title="XXX",XY Max HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6286/index.m3u8
+#EXTINF:0 group-title="XXX",XY Mix HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6287/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus 1
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12115/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus 12
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12118/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus 2
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12116/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus 24
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12119/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus 6
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12117/index.m3u8
+#EXTINF:0 group-title="XXX",XY Plus HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6288/index.m3u8
+#EXTINF:0 group-title="XXX",Yosso TV Sexy
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/14176/index.m3u8
+#EXTINF:0 group-title="XXX",ОХ-АХ HD
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11068/index.m3u8
+#EXTINF:0 group-title="XXX",Русская Ночь
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/147/index.m3u8
+#EXTINF:0 group-title="XXX",Русская Ночь orig
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9344/index.m3u8
+#EXTINF:0 group-title="XXX",Шaлун TB
+http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
+# XXX3
+#EXTINF:0 group-title="XXX3",A3 Bikini
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6165/index.m3u8
+#EXTINF:0 group-title="XXX3",Alba 1
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12106/index.m3u8
+#EXTINF:0 group-title="XXX3",Alba XXX 1 HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12204/index.m3u8
+#EXTINF:0 group-title="XXX3",Alba XXX HD 2
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12194/index.m3u8
+#EXTINF:0 group-title="XXX3",Alex Legend
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12193/index.m3u8
+#EXTINF:0 group-title="XXX3",All Anal
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12192/index.m3u8
+#EXTINF:0 group-title="XXX3",Anal Mom
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12189/index.m3u8
+#EXTINF:0 group-title="XXX3",Anal Only
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12184/index.m3u8
+#EXTINF:0 group-title="XXX3",Anal Teen Angels
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12183/index.m3u8
+#EXTINF:0 group-title="XXX3",Anal Time
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12181/index.m3u8
+#EXTINF:0 group-title="XXX3",Analized HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6168/index.m3u8
+#EXTINF:0 group-title="XXX3",Ass Parade
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12178/index.m3u8
+#EXTINF:0 group-title="XXX3",BAG U
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12170/index.m3u8
+#EXTINF:0 group-title="XXX3",BBC Pie
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12164/index.m3u8
+#EXTINF:0 group-title="XXX3",BRAZZERS TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12113/index.m3u8
+#EXTINF:0 group-title="XXX3",Babes HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6171/index.m3u8
+#EXTINF:0 group-title="XXX3",Babes TV HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6172/index.m3u8
+#EXTINF:0 group-title="XXX3",Banana Fever
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12168/index.m3u8
+#EXTINF:0 group-title="XXX3",Bang Bros HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6173/index.m3u8
+#EXTINF:0 group-title="XXX3",Bang Bus
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12167/index.m3u8
+#EXTINF:0 group-title="XXX3",Bang POV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12166/index.m3u8
+#EXTINF:0 group-title="XXX3",Bang!
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6174/index.m3u8
+#EXTINF:0 group-title="XXX3",Barely Legal TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12165/index.m3u8
+#EXTINF:0 group-title="XXX3",Barely legal
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/871/index.m3u8
+#EXTINF:0 group-title="XXX3",Blacked HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6178/index.m3u8
+#EXTINF:0 group-title="XXX3",Brazzers HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6182/index.m3u8
+#EXTINF:0 group-title="XXX3",CineMan ExExEx
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/20089/index.m3u8
+#EXTINF:0 group-title="XXX3",CineMan ExExEx TWO
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/20090/index.m3u8
+#EXTINF:0 group-title="XXX3",Club 17
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6186/index.m3u8
+#EXTINF:0 group-title="XXX3",Cum Louder
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6189/index.m3u8
+#EXTINF:0 group-title="XXX3",DORCEL TV FHD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12131/index.m3u8
+#EXTINF:0 group-title="XXX3",DORCEL XXX TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12132/index.m3u8
+#EXTINF:0 group-title="XXX3",Dancing Bear
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12144/index.m3u8
+#EXTINF:0 group-title="XXX3",Dane Jones
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12143/index.m3u8
+#EXTINF:0 group-title="XXX3",Dark X
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12140/index.m3u8
+#EXTINF:0 group-title="XXX3",Dorcel Club
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6197/index.m3u8
+#EXTINF:0 group-title="XXX3",Dorcel HD orig
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9064/index.m3u8
+#EXTINF:0 group-title="XXX3",Dorcel TV HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/245/index.m3u8
+#EXTINF:0 group-title="XXX3",Dusk
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6198/index.m3u8
+#EXTINF:0 group-title="XXX3",EXTASY HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11051/index.m3u8
+#EXTINF:0 group-title="XXX3",EXXXOTICA HD orig
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9346/index.m3u8
+#EXTINF:0 group-title="XXX3",Erox HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6296/index.m3u8
+#EXTINF:0 group-title="XXX3",Eroxxx HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/5015/index.m3u8
+#EXTINF:0 group-title="XXX3",Euro Girls On Girls
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12108/index.m3u8
+#EXTINF:0 group-title="XXX3",Evil Angel HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6199/index.m3u8
+#EXTINF:0 group-title="XXX3",Fake Taxi HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6202/index.m3u8
+#EXTINF:0 group-title="XXX3",FemJoy
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6212/index.m3u8
+#EXTINF:0 group-title="XXX3",HOT
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6275/index.m3u8
+#EXTINF:0 group-title="XXX3",HOT XXL HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6276/index.m3u8
+#EXTINF:0 group-title="XXX3",HOTWIFE PREMIUM
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12187/index.m3u8
+#EXTINF:0 group-title="XXX3",Hands on Hardcore
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6217/index.m3u8
+#EXTINF:0 group-title="XXX3",Hard X
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6218/index.m3u8
+#EXTINF:0 group-title="XXX3",Holed
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6221/index.m3u8
+#EXTINF:0 group-title="XXX3",KinoXXX
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11052/index.m3u8
+#EXTINF:0 group-title="XXX3",Leo TV HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6272/index.m3u8
+#EXTINF:0 group-title="XXX3",Lesbea
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6227/index.m3u8
+#EXTINF:0 group-title="XXX3",MYLF TV HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6236/index.m3u8
+#EXTINF:0 group-title="XXX3",Meiden Van Holland
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12125/index.m3u8
+#EXTINF:0 group-title="XXX3",Nubiles TV HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6238/index.m3u8
+#EXTINF:0 group-title="XXX3",O-la-la
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/2161/index.m3u8
+#EXTINF:0 group-title="XXX3",PASSIE TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12136/index.m3u8
+#EXTINF:0 group-title="XXX3",PASSION XXX
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12120/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 1
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12146/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 2
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12147/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 3
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12148/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 4
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12149/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 5
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12150/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 6
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12151/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 7
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12152/index.m3u8
+#EXTINF:0 group-title="XXX3",PINK EROTICA 8
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12153/index.m3u8
+#EXTINF:0 group-title="XXX3",PLAYBOY TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12135/index.m3u8
+#EXTINF:0 group-title="XXX3",PURE BABES
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12112/index.m3u8
+#EXTINF:0 group-title="XXX3",Playboy
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/527/index.m3u8
+#EXTINF:0 group-title="XXX3",Playboy LA
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6280/index.m3u8
+#EXTINF:0 group-title="XXX3",Playboy Plus
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6242/index.m3u8
+#EXTINF:0 group-title="XXX3",RK Prime
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6248/index.m3u8
+#EXTINF:0 group-title="XXX3",RK TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6249/index.m3u8
+#EXTINF:0 group-title="XXX3",Red XXX
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6281/index.m3u8
+#EXTINF:0 group-title="XXX3",SKY HIGH SEX VR
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/19406/index.m3u8
+#EXTINF:0 group-title="XXX3",TUSHY TV
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12188/index.m3u8
+#EXTINF:0 group-title="XXX3",Trans Angels
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6259/index.m3u8
 #EXTINF:0 group-title="XXX3",Shot TV orig
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9347/index.m3u8
 #EXTINF:0 group-title="XXX3",Brazzers TV Europe
@@ -1283,168 +1230,202 @@ http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/18053/index.m3u8
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/19401/index.m3u8
 #EXTINF:0 group-title="XXX3",Adult TV (18+)
 http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/31707/index.m3u8
-#EXTINF:0 group-title="XXX4",Brazzers TV Europe
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/910/index.m3u8
-#EXTINF:0 group-title="XXX4",Brazzers eXXtra
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6181/index.m3u8
-#EXTINF:0 group-title="XXX4",Hustler HD orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9065/index.m3u8
-#EXTINF:0 group-title="XXX4",Hustler HD Europe
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/244/index.m3u8
-#EXTINF:0 group-title="XXX4",Blue Hustler
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/1064/index.m3u8
-#EXTINF:0 group-title="XXX4",Penthouse Gold HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5011/index.m3u8
-#EXTINF:0 group-title="XXX4",Penthouse Reality TV FHD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5013/index.m3u8
-#EXTINF:0 group-title="XXX4",DDF Network
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6194/index.m3u8
-#EXTINF:0 group-title="XXX4",DDF Busty
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6193/index.m3u8
-#EXTINF:0 group-title="XXX4",Naughty America
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6237/index.m3u8
-#EXTINF:0 group-title="XXX4",Penthouse Reality TV HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5012/index.m3u8
-#EXTINF:0 group-title="XXX4",FrenchLover
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/2160/index.m3u8
-#EXTINF:0 group-title="XXX4",Redlight HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/242/index.m3u8
-#EXTINF:0 group-title="XXX4",Extasy 4K
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5014/index.m3u8
-#EXTINF:0 group-title="XXX4",Private TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/243/index.m3u8
-#EXTINF:0 group-title="XXX4",Exxxotica HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/2397/index.m3u8
-#EXTINF:0 group-title="XXX4",Adult Time
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6166/index.m3u8
-#EXTINF:0 group-title="XXX4",Big Ass Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6175/index.m3u8
-#EXTINF:0 group-title="XXX4",Big Tits Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6177/index.m3u8
-#EXTINF:0 group-title="XXX4",Brunette Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6183/index.m3u8
-#EXTINF:0 group-title="XXX4",Cherry Pimps
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6185/index.m3u8
-#EXTINF:0 group-title="XXX4",Compilation Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6187/index.m3u8
-#EXTINF:0 group-title="XXX4",cento x cento
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6184/index.m3u8
-#EXTINF:0 group-title="Для взрослых (18+)",Centoxcento
-http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
-#EXTINF:0 group-title="Для взрослых (18+)",FUUU TV
-http://wellsee.gdn/live.m3u8
-#EXTINF:0 group-title="XXX4",Day with a Pornstar
+#EXTINF:0 group-title="XXX3",VERAPORN BIG TITS
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12145/index.m3u8
+#EXTINF:0 group-title="XXX3",VERAPORN GROUP SEX
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12141/index.m3u8
+#EXTINF:0 group-title="XXX3",VERAPORN GROUP SEX 2
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12142/index.m3u8
+#EXTINF:0 group-title="XXX3",VF Граиндхаус
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14158/index.m3u8
+#EXTINF:0 group-title="XXX3",Venus
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6284/index.m3u8
+#EXTINF:0 group-title="XXX3",Venus HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12133/index.m3u8
+#EXTINF:0 group-title="XXX3",Vivid Red HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/2162/index.m3u8
+#EXTINF:0 group-title="XXX3",Vixen HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6265/index.m3u8
+#EXTINF:0 group-title="XXX3",Wicked
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6268/index.m3u8
+#EXTINF:0 group-title="XXX3",X-MO
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6285/index.m3u8
+#EXTINF:0 group-title="XXX3",XXL
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/5009/index.m3u8
+#EXTINF:0 group-title="XXX3",XXX Love's Berry HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14140/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Max HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6286/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Mix HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6287/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Plus 12
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12118/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Plus 2
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12116/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Plus 24
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12119/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Plus 6
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12117/index.m3u8
+#EXTINF:0 group-title="XXX3",XY Plus HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6288/index.m3u8
+#EXTINF:0 group-title="XXX3",Yosso TV Sexy
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14176/index.m3u8
+#EXTINF:0 group-title="XXX3",Кино 18+ HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/18075/index.m3u8
+#EXTINF:0 group-title="XXX3",Ню Арт HD (18+)
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/31716/index.m3u8
+#EXTINF:0 group-title="XXX3",ОХ-АХ HD
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11068/index.m3u8
+#EXTINF:0 group-title="XXX3",Русская Ночь
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/147/index.m3u8
+#EXTINF:0 group-title="XXX3",Русская Ночь orig
+http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9344/index.m3u8
+# XXX4
+#EXTM3U
+#EXTINF:0 group-title="XXX4",Brazzers.com
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6192/index.m3u8
-#EXTINF:0 group-title="XXX4",Digital Desire HD
+#EXTINF:0 group-title="XXX4",DDF Network 1
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6193/index.m3u8
+#EXTINF:0 group-title="XXX4",DDF Network 2
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6194/index.m3u8
+#EXTINF:0 group-title="XXX4",Digital Desire
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6195/index.m3u8
-#EXTINF:0 group-title="XXX4",Digital Playground HD
+#EXTINF:0 group-title="XXX4",Digital Playground
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6196/index.m3u8
+#EXTINF:0 group-title="XXX4",Dorcel Club
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6197/index.m3u8
+#EXTINF:0 group-title="XXX4",Angels
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6198/index.m3u8
+#EXTINF:0 group-title="XXX4",Evil Angels
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6199/index.m3u8
 #EXTINF:0 group-title="XXX4",Evolved Fights
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6200/index.m3u8
-#EXTINF:0 group-title="XXX4",Extasy HD
+#EXTINF:0 group-title="XXX4",Extasy
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6201/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV 2
+#EXTINF:0 group-title="XXX4",Fake Taxi
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6202/index.m3u8
+#EXTINF:0 group-title="XXX4",Fap TV
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6203/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV 3
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6204/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV Anal
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6206/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV BBW
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6207/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV Compilation
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6208/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV Lesbian
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6209/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV Parody
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6210/index.m3u8
-#EXTINF:0 group-title="XXX4",Fap TV Teens
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6211/index.m3u8
-#EXTINF:0 group-title="XXX4",Fetish Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6213/index.m3u8
-#EXTINF:0 group-title="XXX4",Gangbang Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6214/index.m3u8
-#EXTINF:0 group-title="XXX4",Gay Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6215/index.m3u8
+#EXTINF:0 group-title="XXX4",FemJoy
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
 #EXTINF:0 group-title="XXX4",Got MYLF
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6216/index.m3u8
-#EXTINF:0 group-title="XXX4",Hitzefrei HD
+#EXTINF:0 group-title="XXX4",DDF Network 3
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6217/index.m3u8
+#EXTINF:0 group-title="XXX4",HardX
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6218/index.m3u8
+#EXTINF:0 group-title="XXX4",Hitzefrei
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6220/index.m3u8
-#EXTINF:0 group-title="XXX4",Hot and Mean
+#EXTINF:0 group-title="XXX4",Holed
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6221/index.m3u8
+#EXTINF:0 group-title="XXX4",Brazzers Hot and Mean
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6222/index.m3u8
 #EXTINF:0 group-title="XXX4",Hot Guys Fuck
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6223/index.m3u8
-#EXTINF:0 group-title="XXX4",Interracial Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6224/index.m3u8
 #EXTINF:0 group-title="XXX4",Japan HDV
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6225/index.m3u8
-#EXTINF:0 group-title="XXX4",Latina Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6226/index.m3u8
-#EXTINF:0 group-title="XXX4",Lethal Hardcore
+#EXTINF:0 group-title="XXX4",Lesbea
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6227/index.m3u8
+#EXTINF:0 group-title="XXX4",Lethal
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6229/index.m3u8
-#EXTINF:0 group-title="XXX4",Little Asians HD
+#EXTINF:0 group-title="XXX4",Little Asians
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6230/index.m3u8
-#EXTINF:0 group-title="XXX4",Live Cams Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6231/index.m3u8
-#EXTINF:0 group-title="XXX4",Lust Cinema
+#EXTINF:0 group-title="XXX4",Bang Bros 1
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6232/index.m3u8
-#EXTINF:0 group-title="XXX4",MetArt HD
+#EXTINF:0 group-title="XXX4",MetArt
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6233/index.m3u8
-#EXTINF:0 group-title="XXX4",Monsters of Cock
+#EXTINF:0 group-title="XXX4",Bang Bros 2
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6235/index.m3u8
-#EXTINF:0 group-title="XXX4",PINK EROTIC 3
+#EXTINF:0 group-title="XXX4",MYLF
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6236/index.m3u8
+#EXTINF:0 group-title="XXX4",Naughty America
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6237/index.m3u8
+#EXTINF:0 group-title="XXX4",Nubiles
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6238/index.m3u8
+#EXTINF:0 group-title="XXX4",Tinseks
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6239/index.m3u8
+#EXTINF:0 group-title="XXX4",CentoXcento
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6240/index.m3u8
 #EXTINF:0 group-title="XXX4",PINK EROTIC 4
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6241/index.m3u8
-#EXTINF:0 group-title="XXX4",Pornstar Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6243/index.m3u8
-#EXTINF:0 group-title="XXX4",POV Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6244/index.m3u8
-#EXTINF:0 group-title="XXX4",Private HD
+#EXTINF:0 group-title="XXX4",Playboy
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6242/index.m3u8
+#EXTINF:0 group-title="XXX4",Private
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6245/index.m3u8
 #EXTINF:0 group-title="XXX4",Public Agent
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6246/index.m3u8
-#EXTINF:0 group-title="XXX4",Reality Kings HD
+#EXTINF:0 group-title="XXX4",Reality Kings 1
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6247/index.m3u8
-#EXTINF:0 group-title="XXX4",Rough Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6250/index.m3u8
-#EXTINF:0 group-title="XXX4",Russian Adult TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6251/index.m3u8
+#EXTINF:0 group-title="XXX4",Reality Kings 2
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6248/index.m3u8
+#EXTINF:0 group-title="XXX4",Reality Kings 3
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6249/index.m3u8
 #EXTINF:0 group-title="XXX4",Sex With Muslims
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6252/index.m3u8
 #EXTINF:0 group-title="XXX4",SexArt
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6253/index.m3u8
-#EXTINF:0 group-title="XXX4",sext 6 senso
+#EXTINF:0 group-title="XXX4",Snowbunny
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6254/index.m3u8
 #EXTINF:0 group-title="XXX4",SINematica
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6255/index.m3u8
-#EXTINF:0 group-title="XXX4",Threesome Red TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6257/index.m3u8
-#EXTINF:0 group-title="XXX4",True Amateurs
+#EXTINF:0 group-title="XXX4",Tiny 4k
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6258/index.m3u8
+#EXTINF:0 group-title="XXX4",Trans Angels
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6259/index.m3u8
+#EXTINF:0 group-title="XXX4",True Amateur Bunnies
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6260/index.m3u8
-#EXTINF:0 group-title="XXX4",Tushy HD
+#EXTINF:0 group-title="XXX4",Tushy
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6261/index.m3u8
 #EXTINF:0 group-title="XXX4",TushyRAW
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6262/index.m3u8
-#EXTINF:0 group-title="XXX4",Visit-X TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6263/index.m3u8
 #EXTINF:0 group-title="XXX4",Vivid TV Europe
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6264/index.m3u8
-#EXTINF:0 group-title="XXX4",We Live Together
+#EXTINF:0 group-title="XXX4",Vixen
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6265/index.m3u8
+#EXTINF:0 group-title="XXX4",Reality Kings 4
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6266/index.m3u8
 #EXTINF:0 group-title="XXX4",White Boxxx
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6267/index.m3u8
-#EXTINF:0 group-title="XXX4",Xpanded TV
+#EXTINF:0 group-title="XXX4",Wicked
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6268/index.m3u8
+#EXTINF:0 group-title="XXX4",Snowbunny
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6269/index.m3u8
 #EXTINF:0 group-title="XXX4",Balkan Erotic
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6270/index.m3u8
 #EXTINF:0 group-title="XXX4",Red Lips
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6271/index.m3u8
+#EXTINF:0 group-title="XXX4",Leo TV
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6272/index.m3u8
 #EXTINF:0 group-title="XXX4",Extreme
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6273/index.m3u8
-#EXTINF:0 group-title="XXX4",Hot Pleasure
+#EXTINF:0 group-title="XXX4",Channel 6274
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6274/index.m3u8
+#EXTINF:0 group-title="XXX4",HOT
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6275/index.m3u8
+#EXTINF:0 group-title="XXX4",Eroluxe Schoolgirl
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6276/index.m3u8
+#EXTINF:0 group-title="XXX4",Busty
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6277/index.m3u8
-#EXTINF:0 group-title="XXX4",Sexy Hot
+#EXTINF:0 group-title="XXX4",Channel 6278
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6278/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 6279
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6279/index.m3u8
+#EXTINF:0 group-title="XXX4",Playboy TV LA
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6280/index.m3u8
+#EXTINF:0 group-title="XXX4",Red XXX
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6281/index.m3u8
+#EXTINF:0 group-title="XXX4",Sexy HOT
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6282/index.m3u8
+#EXTINF:0 group-title="XXX4",Venus
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6284/index.m3u8
+#EXTINF:0 group-title="XXX4",XMO
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6285/index.m3u8
+#EXTINF:0 group-title="XXX4",XY MAX
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6286/index.m3u8
+#EXTINF:0 group-title="XXX4",XY MIX
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6287/index.m3u8
+#EXTINF:0 group-title="XXX4",XY PLUS
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6288/index.m3u8
 #EXTINF:0 group-title="XXX4",Erotic
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6289/index.m3u8
 #EXTINF:0 group-title="XXX4",Erotic 2
@@ -1459,46 +1440,124 @@ http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6293/index.m3u8
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6294/index.m3u8
 #EXTINF:0 group-title="XXX4",Erotic 8
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6295/index.m3u8
+#EXTINF:0 group-title="XXX4",Erox HD
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6296/index.m3u8
 #EXTINF:0 group-title="XXX4",SuperOne HD
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6298/index.m3u8
 #EXTINF:0 group-title="XXX4",Redlight HD orig
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9066/index.m3u8
-#EXTINF:0 group-title="XXX4",Family Hookups
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9345/index.m3u8
-#EXTINF:0 group-title="XXX4",VF Cartoon 18+
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/11117/index.m3u8
+#EXTINF:0 group-title="XXX4",Exxxotica
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9346/index.m3u8
+#EXTINF:0 group-title="XXX4",Eromania 4K
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/10047/index.m3u8
+#EXTINF:0 group-title="XXX4",Alba XXX HD 1
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12105/index.m3u8
 #EXTINF:0 group-title="XXX4",Exotic 4k
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12107/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12108
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12108/index.m3u8
 #EXTINF:0 group-title="XXX4",Erotica X
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12109/index.m3u8
 #EXTINF:0 group-title="XXX4",Erotic Spice
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12110/index.m3u8
 #EXTINF:0 group-title="XXX4",DP Fanatics
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12111/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12112
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12112/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12113
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12113/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12114
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12114/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12115
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12115/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12116
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12116/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12117
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12117/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12118
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12118/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12119
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12119/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12120
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12120/index.m3u8
 #EXTINF:0 group-title="XXX4",Super one HD
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12121/index.m3u8
 #EXTINF:0 group-title="XXX4",Dirty Wives Club
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12122/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12123
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12123/index.m3u8
 #EXTINF:0 group-title="XXX4",French Lover
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12124/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12125
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12125/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12126
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12126/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12127
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12127/index.m3u8
 #EXTINF:0 group-title="XXX4",Dirty Masseur
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12128/index.m3u8
 #EXTINF:0 group-title="XXX4",Cento X Cento
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12129/index.m3u8
 #EXTINF:0 group-title="XXX4",Dirty Flix
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12130/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12131
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12131/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12132
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12132/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12133
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12133/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12134
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12134/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12135
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12135/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12136
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12136/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12137
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12137/index.m3u8
 #EXTINF:0 group-title="XXX4",Deep Throat Sirens
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12138/index.m3u8
 #EXTINF:0 group-title="XXX4",Deep Lush
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12139/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12140
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12140/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12141
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12141/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12142
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12142/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12143
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12143/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12144
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12144/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12145
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12145/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12146
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12146/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12147
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12147/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12148
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12148/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12149
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12149/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12150
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12150/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12151
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12151/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12152
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12152/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12153
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12153/index.m3u8
 #EXTINF:0 group-title="XXX4",Dad Crush
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12154/index.m3u8
 #EXTINF:0 group-title="XXX4",Family Swap
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12155/index.m3u8
 #EXTINF:0 group-title="XXX4",Family Strokes
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12156/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12157
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12157/index.m3u8
 #EXTINF:0 group-title="XXX4",Cum Perfection
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12158/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12159
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12159/index.m3u8
 #EXTINF:0 group-title="XXX4",MetArt FHD
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12160/index.m3u8
 #EXTINF:0 group-title="XXX4",Bratty Sis
@@ -1507,199 +1566,327 @@ http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12161/index.m3u8
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12162/index.m3u8
 #EXTINF:0 group-title="XXX4",Beate Uhse
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12163/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12164
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12164/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12165
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12165/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12166
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12166/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12167
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12167/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12168
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12168/index.m3u8
 #EXTINF:0 group-title="XXX4",Asshole Fever
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12169/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12170
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12170/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12171
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12171/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12172
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12172/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12173
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12173/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12174
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12174/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12175
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12175/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12176
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12176/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12177
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12177/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12178
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12178/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12179
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12179/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12180
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12180/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12181
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12181/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12182
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12182/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12183
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12183/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12184
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12184/index.m3u8
 #EXTINF:0 group-title="XXX4",Amateur Boxxx
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12191/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12192
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12192/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12193
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12193/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12194
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12194/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12195
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12195/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12196
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12196/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12197
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12197/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12198
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12198/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12199
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12199/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12200
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12200/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12201
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12201/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12202
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12202/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12203
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12203/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12204
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12204/index.m3u8
+#EXTINF:0 group-title="XXX4",21 Sextury
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12205/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12206
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12206/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12207
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12207/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12208
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12208/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12209
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12209/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12210
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12210/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12211
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12211/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12212
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12212/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12213
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12213/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12214
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12214/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12215
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12215/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12216
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12216/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12217
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12217/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12218
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12218/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12219
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12219/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 12220
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12220/index.m3u8
 #EXTINF:0 group-title="XXX4",Liberty Эротика 4K
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16069/index.m3u8
-#EXTINF:0 group-title="XXX4",Кино 18+ International
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18076/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16070
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16070/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16071
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16071/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16072
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16072/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16073
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16073/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16074
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16074/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16075
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16075/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16076
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16076/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16077
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16077/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16078
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16078/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16079
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16079/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16080
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16080/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16081
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16081/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16082
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16082/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16083
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16083/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 16084
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/16084/index.m3u8
+#EXTINF:0 group-title="XXX4",BCU Charm HD
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18053/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18054
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18054/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18055
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18055/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18056
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18056/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18057
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18057/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18058
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18058/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18059
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18059/index.m3u8
 #EXTINF:0 group-title="XXX4",Kinoshka Adult HD
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18060/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18061
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18061/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18062
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18062/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18063
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18063/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18064
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18064/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18065
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18065/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18066
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18066/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18067
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18067/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18068
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18068/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18069
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18069/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18070
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18070/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18071
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18071/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18072
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18072/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18073
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18073/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18074
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18074/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18075
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
+#EXTINF:0 group-title="XXX4",Кино 18+ International
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18076/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18077
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18077/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18078
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18078/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18079
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18079/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18080
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18080/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18081
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18081/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18082
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18082/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18083
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18083/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18084
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18084/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18085
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18085/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18086
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18086/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18087
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18087/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18088
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18088/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18089
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18089/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18090
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18090/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 18091
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18091/index.m3u8
 #EXTINF:0 group-title="XXX4",Prokop TV XXX
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19401/index.m3u8
-#EXTINF:0 group-title="XXX4",DE Penthouse Passion HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20025/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19402
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19402/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19403
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19403/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19404
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19404/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19405
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19405/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19406
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19406/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19407
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19407/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19408
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19408/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19409
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19409/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19410
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19410/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19411
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19411/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19412
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19412/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19413
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19413/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19414
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19414/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19415
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19415/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 19416
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/19416/index.m3u8
 #EXTINF:0 group-title="XXX4",DE Blue Hustler
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20023/index.m3u8
 #EXTINF:0 group-title="XXX4",DE Lust pur HD
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20024/index.m3u8
+#EXTINF:0 group-title="XXX4",DE Penthouse Passion HD
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20025/index.m3u8
 #EXTINF:0 group-title="XXX4",DE Playboy Europe
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20026/index.m3u8
-#EXTINF:0 group-title="XXX4",BCU Charm HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18053/index.m3u8
-#EXTINF:0 group-title="XXX4",21 Sextury
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12205/index.m3u8
-#EXTINF:0 group-title="XXX",VF Cartoon 18+
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11117/index.m3u8
-#EXTINF:0 group-title="XXX",Exotic 4k
-l
-
-#EXTINF:0 group-title="XXX",Erotica X
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12109/index.m3u8
-#EXTINF:0 group-title="XXX",Erotic Spice
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12110/index.m3u8
-#EXTINF:0 group-title="XXX",DP Fanatics
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12111/index.m3u8
-#EXTINF:0 group-title="XXX",Dirty Wives Club
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12122/index.m3u8
-#EXTINF:0 group-title="XXX",French Lover
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12124/index.m3u8
-#EXTINF:0 group-title="XXX",Dirty Masseur
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12128/index.m3u8
-#EXTINF:0 group-title="XXX",Cento X Cento
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12129/index.m3u8
-#EXTINF:0 group-title="XXX",Dirty Flix
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12130/index.m3u8
-#EXTINF:0 group-title="XXX",Deep Throat Sirens
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12138/index.m3u8
-#EXTINF:0 group-title="XXX",Deep Lush
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12139/index.m3u8
-#EXTINF:0 group-title="XXX",Dad Crush
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12154/index.m3u8
-#EXTINF:0 group-title="XXX",Family Swap
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12155/index.m3u8
-#EXTINF:0 group-title="XXX",Family Strokes
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12156/index.m3u8
-#EXTINF:0 group-title="XXX",Cum Perfection
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12158/index.m3u8
-#EXTINF:0 group-title="XXX",MetArt FHD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12160/index.m3u8
-#EXTINF:0 group-title="XXX",Bratty Sis
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12161/index.m3u8
-#EXTINF:0 group-title="XXX",Brand New Amateurs
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12162/index.m3u8
-#EXTINF:0 group-title="XXX",Beate Uhse
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12163/index.m3u8
-#EXTINF:0 group-title="XXX",Asshole Fever
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12169/index.m3u8
-#EXTINF:0 group-title="XXX",Amateur Boxxx
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12191/index.m3u8
-#EXTINF:0 group-title="XXX",21 Sextury
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12205/index.m3u8
-#EXTINF:0 group-title="XXX",Liberty Эротика 4K
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/16069/index.m3u8
-#EXTINF:0 group-title="XXX",BCU Charm HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18053/index.m3u8
-#EXTINF:0 group-title="XXX",Kinoshka Adult HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18060/index.m3u8
-#EXTINF:0 group-title="XXX",Кино 18+ International
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/18076/index.m3u8
-#EXTINF:0 group-title="XXX",Prokop TV XXX
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/19401/index.m3u8
-#EXTINF:0 group-title="XXX",DE Blue Hustler
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20023/index.m3u8
-#EXTINF:0 group-title="XXX",DE Lust pur HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20024/index.m3u8
-#EXTINF:0 group-title="XXX",DE Penthouse Passion HD2776
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20025/index.m3u8
-#EXTINF:0 group-title="XXX",DE Playboy Europe
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/20026/index.m3u8
-#EXTINF:0 group-title="XXX",Exxxotica HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2397/index.m3u8
-#EXTINF:0 group-title="XXX",Penthouse Passion
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/5010/index.m3u8
-#EXTINF:0 group-title="XXX",Adult Time
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6166/index.m3u8
-#EXTINF:0 group-title="XXX",Brazzers eXXtra
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6181/index.m3u8
-#EXTINF:0 group-title="XXX",Cherry Pimps
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6185/index.m3u8
-#EXTINF:0 group-title="XXX",Daughter Swap
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6191/index.m3u8
-#EXTINF:0 group-title="XXX",Day with a Pornstar
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6192/index.m3u8
-#EXTINF:0 group-title="XXX",DDF Busty
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6193/index.m3u8
-#EXTINF:0 group-title="XXX",DDF Network
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6194/index.m3u8
-#EXTINF:0 group-title="XXX",Digital Desire HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6195/index.m3u8
-#EXTINF:0 group-title="XXX",Digital Playground HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6196/index.m3u8
-#EXTINF:0 group-title="XXX",Evolved Fights
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6200/index.m3u8
-#EXTINF:0 group-title="XXX",Extasy HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6201/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV Anal
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6206/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV BBW
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6207/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV Compilation
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6208/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV Lesbian
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6209/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV Parody
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6210/index.m3u8
-#EXTINF:0 group-title="XXX",Fap TV Teens
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6211/index.m3u8
-#EXTINF:0 group-title="XXX",Got MYLF
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6216/index.m3u8
-#EXTINF:0 group-title="XXX",Hitzefrei HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6220/index.m3u8
-#EXTINF:0 group-title="XXX",Hot and Mean
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6222/index.m3u8
-#EXTINF:0 group-title="XXX",Hot Guys Fuck
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6223/index.m3u8
-#EXTINF:0 group-title="XXX",Japan HDV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6225/index.m3u8
-#EXTINF:0 group-title="XXX",Lethal Hardcore
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6229/index.m3u8
-#EXTINF:0 group-title="XXX",Little Asians HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6230/index.m3u8
-#EXTINF:0 group-title="XXX",Lust Cinema
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6232/index.m3u8
-#EXTINF:0 group-title="XXX",Monsters of Cock
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6235/index.m3u8
-#EXTINF:0 group-title="XXX",Naughty America
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6237/index.m3u8
-#EXTINF:0 group-title="XXX",Private HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6245/index.m3u8
-#EXTINF:0 group-title="XXX",Public Agent
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6246/index.m3u8
-#EXTINF:0 group-title="XXX",Reality Kings HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6247/index.m3u8
-#EXTINF:0 group-title="XXX",Sex With Muslims
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6252/index.m3u8
-#EXTINF:0 group-title="XXX",SexArt
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6253/index.m3u8
-#EXTINF:0 group-title="XXX",sext 6 senso
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6254/index.m3u8
-#EXTINF:0 group-title="XXX",SINematica
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6255/index.m3u8
-#EXTINF:0 group-title="XXX",True Amateurs
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6260/index.m3u8
-#EXTINF:0 group-title="XXX",Tushy HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6261/index.m3u8
-#EXTINF:0 group-title="XXX",TushyRAW
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6262/index.m3u8
-#EXTINF:0 group-title="XXX",Visit-X TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6263/index.m3u8
-#EXTINF:0 group-title="XXX",We Live Together
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6266/index.m3u8
-#EXTINF:0 group-title="XXX",White Boxxx
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6267/index.m3u8
-#EXTINF:0 group-title="XXX",Xpanded TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6269/index.m3u8
-#EXTINF:0 group-title="XXX",Balkan Erotic
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6270/index.m3u8
-#EXTINF:0 group-title="XXX",Red Lips
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6271/index.m3u8
-#EXTINF:0 group-title="XXX",Extreme
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6273/index.m3u8
-#EXTINF:0 group-title="XXX",Fast Boyz
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6274/index.m3u8
-#EXTINF:0 group-title="XXX",Hot Pleasure
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6277/index.m3u8
-#EXTINF:0 group-title="XXX",Oldtimer
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6279/index.m3u8
-#EXTINF:0 group-title="XXX",Sexy Hot
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6282/index.m3u8
-#EXTINF:0 group-title="XXX",Family Hookups
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9345/index.m3u8
-#EXTINF:0 group-title="XXX",Кино 18+ HD
-https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20027
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20027/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20028
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20028/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20029
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20029/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20030
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20030/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20031
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20031/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20032
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20032/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20033
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20033/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20034
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20034/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20035
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20035/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20036
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20036/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20037
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20037/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20038
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20038/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20039
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20039/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20040
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20040/index.m3u8
+#EXTINF:0 group-title="XXX4",Channel 20041
+http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/20041/index.m3u8
+# Red TV
+#EXTINF:0 group-title="Red TV",Anal
+http://live.adultiptv.net/anal.m3u8
+#EXTINF:0 group-title="Red TV",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:0 group-title="Red TV",Big Dick Red TV
+http://live.adultiptv.net/bigdick.m3u8
+#EXTINF:0 group-title="Red TV",Blonde
+http://live.adultiptv.net/blonde.m3u8
+#EXTINF:0 group-title="Red TV",Blowjob
+http://live.adultiptv.net/blowjob.m3u8
+#EXTINF:0 group-title="Red TV",Gangbang
+http://live.adultiptv.net/gangbang.m3u8
+#EXTINF:0 group-title="Red TV",Gay
+http://live.adultiptv.net/gay.m3u8
+#EXTINF:0 group-title="Red TV",Hardcore
+http://live.adultiptv.net/hardcore.m3u8
+#EXTINF:0 group-title="Red TV",LATINA TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12172/index.m3u8
+#EXTINF:0 group-title="Red TV",Lesbian
+http://live.adultiptv.net/lesbian.m3u8
+#EXTINF:0 group-title="Red TV",Live Cams
+http://live.adultiptv.net/livecams.m3u8
+#EXTINF:0 group-title="Red TV",MILF
+http://live.adultiptv.net/milf.m3u8
+#EXTINF:0 group-title="Red TV",MILF TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12173/index.m3u8
+#EXTINF:0 group-title="Red TV",PORNSTAR TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12174/index.m3u8
+#EXTINF:0 group-title="Red TV",POV TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12175/index.m3u8
+#EXTINF:0 group-title="Red TV",ROUGH TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12176/index.m3u8
+#EXTINF:0 group-title="Red TV",RUSSIAN TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12177/index.m3u8
+#EXTINF:0 group-title="Red TV",THREESOME TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12180/index.m3u8
+#EXTINF:0 group-title="Red TV",Teen Red TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6256/index.m3u8
 #EXTINF:0 group-title="Red TV",Big Ass Adult TV
 http://live.adultiptv.net/bigass.m3u8
 #EXTINF:0 group-title="Red TV",Big Tits Adult TV
@@ -1724,190 +1911,51 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6251/index.m3u8
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6257/index.m3u8
 #EXTINF:0 group-title="Red TV",Woman TV
 https://live.adultiptv.net/woman.m3u8
-
+#EXTINF:0 group-title="Red TV",XXXINTERRACIAL TV
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12171/index.m3u8
+# Для взрослых (18+)
+#EXTINF:0 group-title="Для взрослых (18+)",Centoxcento
+http://pl.seetv.cc/play/6868/D591A450364592E/video.m3u8
+#EXTINF:0 group-title="Для взрослых (18+)",FUUU TV
+http://wellsee.gdn/live.m3u8
+# Fashion TV
 #EXTINF:0 group-title="Fashion TV",Fashion TV UHD
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:0 group-title="Fashion TV",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:0 group-title="Fashion TV",FASHION TV
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:0 group-title="XXX4",VERAPORN 4K
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12137/index.m3u8
-#EXTINF:0 group-title="XXX",VERAPORN 4K
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12137/index.m3u8
-#EXTINF:0 group-title="XXX3",VERAPORN BIG TITS
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12145/index.m3u8
-#EXTINF:0 group-title="XXX4",VERAPORN BIG TITS
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12145/index.m3u8
-#EXTINF:0 group-title="XXX",VERAPORN BIG TITS
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12145/index.m3u8
-#EXTINF:0 group-title="XXX3",VERAPORN GROUP SEX
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12141/index.m3u8
-#EXTINF:0 group-title="XXX4",VERAPORN GROUP SEX
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12141/index.m3u8
-#EXTINF:0 group-title="XXX",VERAPORN GROUP SEX
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12141/index.m3u8
-#EXTINF:0 group-title="XXX3",VERAPORN GROUP SEX 2
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12142/index.m3u8
-#EXTINF:0 group-title="XXX4",VERAPORN GROUP SEX 2
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12142/index.m3u8
-#EXTINF:0 group-title="XXX",VERAPORN GROUP SEX 2
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12142/index.m3u8
-#EXTINF:0 group-title="XXX3",VF Граиндхаус
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14158/index.m3u8
-#EXTINF:0 group-title="XXX3",Venus
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6284/index.m3u8
-#EXTINF:0 group-title="XXX4",Venus
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6284/index.m3u8
+# Эротика
 #EXTINF:0 group-title="Эротика", Playboy HD
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:0 group-title="XXX3",Venus HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12133/index.m3u8
-#EXTINF:0 group-title="XXX4",Venus HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12133/index.m3u8
-#EXTINF:0 group-title="XXX",Venus HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12133/index.m3u8
-#EXTINF:0 group-title="XXX",Vivid Red
-http://ip1.orgip.net/709/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",Vivid Red HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/2162/index.m3u8
-#EXTINF:0 group-title="XXX4",Vivid Red HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/2162/index.m3u8
-#EXTINF:0 group-title="XXX",Vivid Red HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/2162/index.m3u8
-#EXTINF:0 group-title="XXX3",Vixen HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6265/index.m3u8
-#EXTINF:0 group-title="XXX4",Vixen HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6265/index.m3u8
-#EXTINF:0 tvg-chno="1" group-title="XXX",Vixen HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6265/index.m3u8
-#EXTINF:0 group-title="XXX3",Wicked
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6268/index.m3u8
-#EXTINF:0 group-title="XXX4",Wicked
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6268/index.m3u8
-#EXTINF:0 group-title="XXX",Wicked
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6268/index.m3u8
-#EXTINF:0 group-title="XXX3",X-MO
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6285/index.m3u8
-#EXTINF:0 group-title="XXX4",X-MO
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6285/index.m3u8
-#EXTINF:0 group-title="XXX",X-MO
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6285/index.m3u8
-#EXTINF:0 group-title="XXX",XXL
-http://ip1.orgip.net/710/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",XXL
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/5009/index.m3u8
-#EXTINF:0 group-title="XXX4",XXL
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/5009/index.m3u8
-#EXTINF:0 group-title="XXX",XXX 708
-http://ip1.orgip.net/708/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX",XXX 712
-http://ip1.orgip.net/712/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX",XXX 715
-http://ip1.orgip.net/715/video.m3u8?token=A3b61a999e
-
-#EXTINF:0 group-title="XXX3",XXX Love's Berry HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14140/index.m3u8
-#EXTINF:0 group-title="XXX4",XXX Love's Berry HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/14140/index.m3u8
-#EXTINF:0 group-title="XXX",XXX Love's Berry HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/14140/index.m3u8
-#EXTINF:0 group-title="XXX4",XXXINTERRACIAL TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12171/index.m3u8
-#EXTINF:0 group-title="Red TV",XXXINTERRACIAL TV
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12171/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Max HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6286/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Max HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6286/index.m3u8
-#EXTINF:0 group-title="XXX",XY Max HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6286/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Mix HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6287/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Mix HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6287/index.m3u8
-#EXTINF:0 group-title="XXX",XY Mix HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6287/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus 1
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12115/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Plus 12
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12118/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Plus 12
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12118/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus 12
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12118/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Plus 2
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12116/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Plus 2
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12116/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus 2
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12116/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Plus 24
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12119/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Plus 24
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12119/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus 24
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12119/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Plus 6
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/12117/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Plus 6
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/12117/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus 6
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/12117/index.m3u8
-#EXTINF:0 group-title="XXX3",XY Plus HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/6288/index.m3u8
-#EXTINF:0 group-title="XXX4",XY Plus HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6288/index.m3u8
-#EXTINF:0 group-title="XXX",XY Plus HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6288/index.m3u8
-#EXTINF:0 group-title="XXX3",Yosso TV Sexy
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/14176/index.m3u8
-#EXTINF:0 group-title="XXX4",Yosso TV Sexy
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/14176/index.m3u8
-#EXTINF:0 group-title="XXX",Yosso TV Sexy
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/14176/index.m3u8
-#EXTINF:0 group-title="XXX4",ox-ax HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6239/index.m3u8
-#EXTINF:0 group-title="XXX3",Кино 18+ HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/18075/index.m3u8
-#EXTINF:0 group-title="XXX4",Кино 18+ HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/18075/index.m3u8
-#EXTINF:0 group-title="XXX3",Ню Арт HD (18+)
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/31716/index.m3u8
-#EXTINF:0 group-title="XXX4",Нюарт TV
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/2057/index.m3u8
-#EXTINF:0 group-title="XXX3",ОХ-АХ HD
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/11068/index.m3u8
-#EXTINF:0 group-title="XXX4",ОХ-АХ HD
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/11068/index.m3u8
-#EXTINF:0 group-title="XXX",ОХ-АХ HD
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/11068/index.m3u8
-#EXTINF:0 group-title="XXX",Русская Ночь
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/147/index.m3u8
-#EXTINF:0 group-title="XXX3",Русская Ночь
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/147/index.m3u8
-#EXTINF:0 group-title="XXX4",Русская Ночь
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/147/index.m3u8
-#EXTINF:0 group-title="XXX3",Русская Ночь orig
-http://bc5474cc.edemist.com/iptv/GFE626AMH8EPP6/9344/index.m3u8
-#EXTINF:0 group-title="XXX4",Русская Ночь orig
-http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/9344/index.m3u8
-#EXTINF:0 group-title="XXX",Русская Ночь orig
-http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/9344/index.m3u8
-#EXTINF:0 group-title="XXX",Шaлун TB
-http://rr3.8v8i8p.com/~109e1a3c05fcad5b22d13b9453dc0db5122/43882/hls/pl.m3u8
-
-#EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz,https://bcumedia.pro/epg.xml.gz,https://gw.ottservice.org/epg/download/epg.xml.gz,http://tapitv.com/ttv.xmltv.xml.gz,http://epg.it999.ru/epg.xml.gz,http://1lot.tv/epg/epg.xml"
+# TV
 #EXTINF:0 group-title="TV",Penthouse Reality TV
 http://rr3.tvdosug.net/~109e1a3c05fcad5b22d13b9453dc0db5122/47354
 #EXTINF:0 group-title="TV",Fashion TV Midnite Secrets HD
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:0 group-title="TV", Visit-X
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
+#EXTINF:0 group-title="TV",Penthouse Reality TV
+http://146.59.54.163/352/index.m3u8
+#EXTINF:0 group-title="TV",Private HD
+http://146.59.54.163/356/index.m3u8
+#EXTINF:0 group-title="TV",Dorcel TV
+http://146.59.54.163/345/index.m3u8
+#EXTINF:0 group-title="TV",Hustler TV
+http://146.59.54.163/349/index.m3u8
+#EXTINF:0 group-title="TV",Hustler HD
+http://146.59.54.163/348/index.m3u8
+#EXTINF:0 group-title="TV",Babes TV
+http://146.59.54.163/354/index.m3u8
+#EXTINF:0 group-title="TV",VividRed
+http://146.59.54.163/361/index.m3u8
+#EXTINF:0 group-title="TV",Exxxotica HD
+http://146.59.54.163/362/index.m3u8
+#EXTINF:0 group-title="TV",XXL TV
+http://146.59.54.163/363/index.m3u8
+#EXTINF:0 group-title="TV",O La La
+http://146.59.54.163/350/index.m3u8
+# Stars
 #EXTINF:0 group-title="Stars",Emily Willis
 http://cord-cutter.net:8080/7MArer2/382185/160060
 #EXTINF:0 group-title="Stars",Dani Daniels
@@ -1946,6 +1994,7 @@ http://cord-cutter.net:8080/7MArer2/382185/160095
 http://1tv41.icu:8080/xzFT3P/639243/160096
 #EXTINF:0 group-title="Stars",BigTittyGothEgg
 http://1tv41.icu:8080/xzFT3P/639243/160075
+# Live
 #EXTINF:0 group-title="Live",Adult 1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
 #EXTINF:0 group-title="Live",Adult 2
@@ -1954,7 +2003,7 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1297
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/468
 #EXTINF:0 group-title="Live",Adult 4
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1298
-
+# XXX CHANNELS
 #EXTINF:0 group-title="XXX CHANNELS",TRANS ANGELS
 http://tvmate.icu:8080/37931569/37931569/159951
 #EXTINF:0 group-title="XXX CHANNELS",TRANS EROTICA
@@ -2145,104 +2194,6 @@ http://tvmate.icu:8080/37931569/37931569/160046
 http://tvmate.icu:8080/37931569/37931569/160047
 #EXTINF:0 group-title="XXX CHANNELS",X CHIMERA
 http://tvmate.icu:8080/37931569/37931569/160048
-#EXTINF:0 group-title="XXX CHANNEL 2", ABELLA DANGER
-http://tvmate.icu:8080/37931569/37931569/160049
-#EXTINF:0 group-title="XXX CHANNEL 2", ADRIANA CHECHIK
-http://tvmate.icu:8080/37931569/37931569/160050
-#EXTINF:0 group-title="XXX CHANNEL 2", ALINA LOPEZ
-http://tvmate.icu:8080/37931569/37931569/160051
-#EXTINF:0 group-title="XXX CHANNEL 2", ANGELA WHITE
-http://tvmate.icu:8080/37931569/37931569/160052
-#EXTINF:0 group-title="XXX CHANNEL 2", ARIANA MARIE
-http://tvmate.icu:8080/37931569/37931569/160053
-#EXTINF:0 group-title="XXX CHANNEL 2", AUGUST AMES
-http://tvmate.icu:8080/37931569/37931569/160054
-#EXTINF:0 group-title="XXX CHANNEL 2", AUTUMN FALLS
-http://tvmate.icu:8080/37931569/37931569/160055
-#EXTINF:0 group-title="XXX CHANNEL 2", BRANDI LOVE
-http://tvmate.icu:8080/37931569/37931569/160056
-#EXTINF:0 group-title="XXX CHANNEL 2", DANI DANIELS
-http://tvmate.icu:8080/37931569/37931569/160057
-#EXTINF:0 group-title="XXX CHANNEL 2", DANI JENSEN
-http://tvmate.icu:8080/37931569/37931569/160058
-#EXTINF:0 group-title="XXX CHANNEL 2", ELSA JEAN
-http://tvmate.icu:8080/37931569/37931569/160059
-#EXTINF:0 group-title="XXX CHANNEL 2", EMILY WILLIS
-http://tvmate.icu:8080/37931569/37931569/160060
-#EXTINF:0 group-title="XXX CHANNEL 2", EVA LOVIA
-http://tvmate.icu:8080/37931569/37931569/160061
-#EXTINF:0 group-title="XXX CHANNEL 2", GINA VALENTINA
-http://tvmate.icu:8080/37931569/37931569/160062
-#EXTINF:0 group-title="XXX CHANNEL 2", JANICE GRIFFITH
-http://tvmate.icu:8080/37931569/37931569/160063
-#EXTINF:0 group-title="XXX CHANNEL 2", JESSA RHODES
-http://tvmate.icu:8080/37931569/37931569/160064
-#EXTINF:0 group-title="XXX CHANNEL 2", LANA RHOADES
-http://tvmate.icu:8080/37931569/37931569/160065
-#EXTINF:0 group-title="XXX CHANNEL 2", LENA PAUL
-http://tvmate.icu:8080/37931569/37931569/160066
-#EXTINF:0 group-title="XXX CHANNEL 2", LISA ANN
-http://tvmate.icu:8080/37931569/37931569/160067
-#EXTINF:0 group-title="XXX CHANNEL 2", MADISON IVY
-http://tvmate.icu:8080/37931569/37931569/160068
-#EXTINF:0 group-title="XXX CHANNEL 2", MIA MALKOVA
-http://tvmate.icu:8080/37931569/37931569/160069
-#EXTINF:0 group-title="XXX CHANNEL 2", NICOLE ANISTON
-http://tvmate.icu:8080/37931569/37931569/160070
-#EXTINF:0 group-title="XXX CHANNEL 2", RILEY REID
-http://tvmate.icu:8080/37931569/37931569/160071
-#EXTINF:0 group-title="XXX CHANNEL 2", UMA JOLIE
-http://tvmate.icu:8080/37931569/37931569/160072
-#EXTINF:0 group-title="XXX CHANNEL 2", VALENTINA NAPPI
-http://tvmate.icu:8080/37931569/37931569/160073
-#EXTINF:0 group-title="XXX CHANNEL 1", ALICE REDLIPS
-http://tvmate.icu:8080/37931569/37931569/160074
-#EXTINF:0 group-title="XXX CHANNEL 1", BIGTITTYGOTHEGG
-http://tvmate.icu:8080/37931569/37931569/160075
-#EXTINF:0 group-title="XXX CHANNEL 1", CHERRY GRACE
-http://tvmate.icu:8080/37931569/37931569/160076
-#EXTINF:0 group-title="XXX CHANNEL 1", DIANA DANIELS
-http://tvmate.icu:8080/37931569/37931569/160078
-#EXTINF:0 group-title="XXX CHANNEL 1", ELLAKAI
-http://tvmate.icu:8080/37931569/37931569/160079
-#EXTINF:0 group-title="XXX CHANNEL 1", FIAMURR
-http://tvmate.icu:8080/37931569/37931569/160080
-#EXTINF:0 group-title="XXX CHANNEL 1", KRISS KISS
-http://tvmate.icu:8080/37931569/37931569/160081
-#EXTINF:0 group-title="XXX CHANNEL 1", LEAH MEOW
-http://tvmate.icu:8080/37931569/37931569/160082
-#EXTINF:0 group-title="XXX CHANNEL 1", LUXURYGIRL
-http://tvmate.icu:8080/37931569/37931569/160083
-#EXTINF:0 group-title="XXX CHANNEL 1", MIKANIKA69
-http://tvmate.icu:8080/37931569/37931569/160084
-#EXTINF:0 group-title="XXX CHANNEL 1", MINI DIVA
-http://tvmate.icu:8080/37931569/37931569/160085
-#EXTINF:0 group-title="XXX CHANNEL 1", MOLLYREDWOLF
-http://tvmate.icu:8080/37931569/37931569/160086
-#EXTINF:0 group-title="XXX CHANNEL 1", NOFACEGIRL
-http://tvmate.icu:8080/37931569/37931569/160087
-#EXTINF:0 group-title="XXX CHANNEL 1", NOTSOAMATEUR
-http://tvmate.icu:8080/37931569/37931569/160088
-#EXTINF:0 group-title="XXX CHANNEL 1", NYNA FERRAGNI
-http://tvmate.icu:8080/37931569/37931569/160089
-#EXTINF:0 group-title="XXX CHANNEL 1", PURPLE BITCH
-http://tvmate.icu:8080/37931569/37931569/160090
-#EXTINF:0 group-title="XXX CHANNEL 1", REISLIN
-http://tvmate.icu:8080/37931569/37931569/160091
-#EXTINF:0 group-title="XXX CHANNEL 1", SECRETCRUSH
-http://tvmate.icu:8080/37931569/37931569/160092
-#EXTINF:0 group-title="XXX CHANNEL 1", SHAIDEN ROUGE
-http://tvmate.icu:8080/37931569/37931569/160093
-#EXTINF:0 group-title="XXX CHANNEL 1", SOLAZOLA
-http://tvmate.icu:8080/37931569/37931569/160094
-#EXTINF:0 group-title="XXX CHANNEL 1", SWEET BUNNY
-http://tvmate.icu:8080/37931569/37931569/160095
-#EXTINF:0 group-title="XXX CHANNEL 1", TESSA WINTERS
-http://tvmate.icu:8080/37931569/37931569/160096
-#EXTINF:0 group-title="XXX CHANNEL 1", TINNA ANGEL
-http://tvmate.icu:8080/37931569/37931569/160097
-#EXTINF:0 group-title="XXX CHANNEL 1", YINYLEON
-http://tvmate.icu:8080/37931569/37931569/160098
 #EXTINF:0 group-title="XXX CHANNELS",404HotFound
 http://tvmate.icu:8080/37931569/37931569/215434
 #EXTINF:0 group-title="XXX CHANNELS",A Girls Knows
@@ -2951,24 +2902,103 @@ http://tvmate.icu:8080/37931569/37931569/215791
 http://tvmate.icu:8080/37931569/37931569/215792
 #EXTINF:0 group-title="XXX CHANNELS",Elle Lee
 http://tvmate.icu:8080/37931569/37931569/215793
-
-#EXTINF:0 group-title="TV",Penthouse Reality TV
-http://146.59.54.163/352/index.m3u8
-#EXTINF:0 group-title="TV",Private HD
-http://146.59.54.163/356/index.m3u8
-#EXTINF:0 group-title="TV",Dorcel TV
-http://146.59.54.163/345/index.m3u8
-#EXTINF:0 group-title="TV",Hustler TV
-http://146.59.54.163/349/index.m3u8
-#EXTINF:0 group-title="TV",Hustler HD
-http://146.59.54.163/348/index.m3u8
-#EXTINF:0 group-title="TV",Babes TV
-http://146.59.54.163/354/index.m3u8
-#EXTINF:0 group-title="TV",VividRed
-http://146.59.54.163/361/index.m3u8
-#EXTINF:0 group-title="TV",Exxxotica HD
-http://146.59.54.163/362/index.m3u8
-#EXTINF:0 group-title="TV",XXL TV
-http://146.59.54.163/363/index.m3u8
-#EXTINF:0 group-title="TV",O La La
-http://146.59.54.163/350/index.m3u8
+# XXX CHANNEL 2
+#EXTINF:0 group-title="XXX CHANNEL 2", ABELLA DANGER
+http://tvmate.icu:8080/37931569/37931569/160049
+#EXTINF:0 group-title="XXX CHANNEL 2", ADRIANA CHECHIK
+http://tvmate.icu:8080/37931569/37931569/160050
+#EXTINF:0 group-title="XXX CHANNEL 2", ALINA LOPEZ
+http://tvmate.icu:8080/37931569/37931569/160051
+#EXTINF:0 group-title="XXX CHANNEL 2", ANGELA WHITE
+http://tvmate.icu:8080/37931569/37931569/160052
+#EXTINF:0 group-title="XXX CHANNEL 2", ARIANA MARIE
+http://tvmate.icu:8080/37931569/37931569/160053
+#EXTINF:0 group-title="XXX CHANNEL 2", AUGUST AMES
+http://tvmate.icu:8080/37931569/37931569/160054
+#EXTINF:0 group-title="XXX CHANNEL 2", AUTUMN FALLS
+http://tvmate.icu:8080/37931569/37931569/160055
+#EXTINF:0 group-title="XXX CHANNEL 2", BRANDI LOVE
+http://tvmate.icu:8080/37931569/37931569/160056
+#EXTINF:0 group-title="XXX CHANNEL 2", DANI DANIELS
+http://tvmate.icu:8080/37931569/37931569/160057
+#EXTINF:0 group-title="XXX CHANNEL 2", DANI JENSEN
+http://tvmate.icu:8080/37931569/37931569/160058
+#EXTINF:0 group-title="XXX CHANNEL 2", ELSA JEAN
+http://tvmate.icu:8080/37931569/37931569/160059
+#EXTINF:0 group-title="XXX CHANNEL 2", EMILY WILLIS
+http://tvmate.icu:8080/37931569/37931569/160060
+#EXTINF:0 group-title="XXX CHANNEL 2", EVA LOVIA
+http://tvmate.icu:8080/37931569/37931569/160061
+#EXTINF:0 group-title="XXX CHANNEL 2", GINA VALENTINA
+http://tvmate.icu:8080/37931569/37931569/160062
+#EXTINF:0 group-title="XXX CHANNEL 2", JANICE GRIFFITH
+http://tvmate.icu:8080/37931569/37931569/160063
+#EXTINF:0 group-title="XXX CHANNEL 2", JESSA RHODES
+http://tvmate.icu:8080/37931569/37931569/160064
+#EXTINF:0 group-title="XXX CHANNEL 2", LANA RHOADES
+http://tvmate.icu:8080/37931569/37931569/160065
+#EXTINF:0 group-title="XXX CHANNEL 2", LENA PAUL
+http://tvmate.icu:8080/37931569/37931569/160066
+#EXTINF:0 group-title="XXX CHANNEL 2", LISA ANN
+http://tvmate.icu:8080/37931569/37931569/160067
+#EXTINF:0 group-title="XXX CHANNEL 2", MADISON IVY
+http://tvmate.icu:8080/37931569/37931569/160068
+#EXTINF:0 group-title="XXX CHANNEL 2", MIA MALKOVA
+http://tvmate.icu:8080/37931569/37931569/160069
+#EXTINF:0 group-title="XXX CHANNEL 2", NICOLE ANISTON
+http://tvmate.icu:8080/37931569/37931569/160070
+#EXTINF:0 group-title="XXX CHANNEL 2", RILEY REID
+http://tvmate.icu:8080/37931569/37931569/160071
+#EXTINF:0 group-title="XXX CHANNEL 2", UMA JOLIE
+http://tvmate.icu:8080/37931569/37931569/160072
+#EXTINF:0 group-title="XXX CHANNEL 2", VALENTINA NAPPI
+http://tvmate.icu:8080/37931569/37931569/160073
+# XXX CHANNEL 1
+#EXTINF:0 group-title="XXX CHANNEL 1", ALICE REDLIPS
+http://tvmate.icu:8080/37931569/37931569/160074
+#EXTINF:0 group-title="XXX CHANNEL 1", BIGTITTYGOTHEGG
+http://tvmate.icu:8080/37931569/37931569/160075
+#EXTINF:0 group-title="XXX CHANNEL 1", CHERRY GRACE
+http://tvmate.icu:8080/37931569/37931569/160076
+#EXTINF:0 group-title="XXX CHANNEL 1", DIANA DANIELS
+http://tvmate.icu:8080/37931569/37931569/160078
+#EXTINF:0 group-title="XXX CHANNEL 1", ELLAKAI
+http://tvmate.icu:8080/37931569/37931569/160079
+#EXTINF:0 group-title="XXX CHANNEL 1", FIAMURR
+http://tvmate.icu:8080/37931569/37931569/160080
+#EXTINF:0 group-title="XXX CHANNEL 1", KRISS KISS
+http://tvmate.icu:8080/37931569/37931569/160081
+#EXTINF:0 group-title="XXX CHANNEL 1", LEAH MEOW
+http://tvmate.icu:8080/37931569/37931569/160082
+#EXTINF:0 group-title="XXX CHANNEL 1", LUXURYGIRL
+http://tvmate.icu:8080/37931569/37931569/160083
+#EXTINF:0 group-title="XXX CHANNEL 1", MIKANIKA69
+http://tvmate.icu:8080/37931569/37931569/160084
+#EXTINF:0 group-title="XXX CHANNEL 1", MINI DIVA
+http://tvmate.icu:8080/37931569/37931569/160085
+#EXTINF:0 group-title="XXX CHANNEL 1", MOLLYREDWOLF
+http://tvmate.icu:8080/37931569/37931569/160086
+#EXTINF:0 group-title="XXX CHANNEL 1", NOFACEGIRL
+http://tvmate.icu:8080/37931569/37931569/160087
+#EXTINF:0 group-title="XXX CHANNEL 1", NOTSOAMATEUR
+http://tvmate.icu:8080/37931569/37931569/160088
+#EXTINF:0 group-title="XXX CHANNEL 1", NYNA FERRAGNI
+http://tvmate.icu:8080/37931569/37931569/160089
+#EXTINF:0 group-title="XXX CHANNEL 1", PURPLE BITCH
+http://tvmate.icu:8080/37931569/37931569/160090
+#EXTINF:0 group-title="XXX CHANNEL 1", REISLIN
+http://tvmate.icu:8080/37931569/37931569/160091
+#EXTINF:0 group-title="XXX CHANNEL 1", SECRETCRUSH
+http://tvmate.icu:8080/37931569/37931569/160092
+#EXTINF:0 group-title="XXX CHANNEL 1", SHAIDEN ROUGE
+http://tvmate.icu:8080/37931569/37931569/160093
+#EXTINF:0 group-title="XXX CHANNEL 1", SOLAZOLA
+http://tvmate.icu:8080/37931569/37931569/160094
+#EXTINF:0 group-title="XXX CHANNEL 1", SWEET BUNNY
+http://tvmate.icu:8080/37931569/37931569/160095
+#EXTINF:0 group-title="XXX CHANNEL 1", TESSA WINTERS
+http://tvmate.icu:8080/37931569/37931569/160096
+#EXTINF:0 group-title="XXX CHANNEL 1", TINNA ANGEL
+http://tvmate.icu:8080/37931569/37931569/160097
+#EXTINF:0 group-title="XXX CHANNEL 1", YINYLEON
+http://tvmate.icu:8080/37931569/37931569/160098
