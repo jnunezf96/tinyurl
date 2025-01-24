@@ -1,4 +1,9 @@
 #EXTM3U
+# Albania
+#EXTINF:0 group-title="Albania",Desire
+http://62.210.123.134:98/live/an75d/75d/99.ts
+#EXTINF:0 group-title="Albania",Bunga Bunga
+http://62.210.123.134:98/live/an75d/75d/98.ts
 # k1NHIjpHYB
 #EXTINF:0 group-title="k1NHIjpHYB",HUSTLER
 http://xpto.club:8080/k1NHIjpHYB/sEdMa7fqn7/75146
